@@ -1,157 +1,121 @@
-# BÀI TẬP: SỬ DỤNG POSTMAN, NEWMAN VÀ GITHUB ACTIONS CHO API TESTING
-
-## Mục tiêu
-- Làm quen với kiểm thử API bằng Postman.
-- Thực hiện kiểm thử data-driven với file CSV.
-- Tích hợp kiểm thử tự động với Newman và GitHub Actions.
-
----
-
-## 1. Cấu trúc thư mục
-
-```
-api-automation-practice/
-├── .github/
-│   └── workflows/
-│       └── api-test.yml         # File workflow GitHub Actions
-├── sprint5-with-bugs/
-│   └── API/
-│       └── .env.ci              # Mẫu file môi trường cho CI
-├── tests/
-│   └── api/
-│       ├── collection.json      # Collection Postman (bạn sẽ cập nhật)
-│       ├── environment.json     # Environment Postman
-│       └── user-accounts.csv    # File dữ liệu kiểm thử data-driven
-├── run-api-tests.sh             # Script chạy newman local
-├── run-api-tests.ps1            # Script chạy newman local (powershell)
-└── README.md                    # File hướng dẫn này
-```
-
----
+[![Run Playwright Tests 🎭](https://github.com/testsmith-io/practice-software-testing/actions/workflows/run-tests.yml/badge.svg)](https://github.com/testsmith-io/practice-software-testing/actions/workflows/run-tests.yml) [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/testsmith-io/practice-software-testing)
 
 
-## 2. Đề bài & Yêu cầu
+# Default accounts
 
-### Yêu cầu 1: Data-driven testing với Postman
+| First name | Last name | Role   | E-mail                                | Password   |
+|------------|-----------|--------|---------------------------------------|------------|
+| John       | Doe       | admin  | admin@practicesoftwaretesting.com     | welcome01  |
+| Jane       | Doe       | user   | customer@practicesoftwaretesting.com  | welcome01  |
+| Jack       | Howe      | user   | customer2@practicesoftwaretesting.com | welcome01  |
 
-**Lưu ý quan trọng:** Trước khi bắt đầu, bạn cần khởi động ứng dụng và tạo dữ liệu:
+# URLs (hosted versions)
 
-```bash
-# Khởi động các container Docker
-docker-compose up -d
+| Description          | Application                                                                                    | API                                                                                                           | Swagger                                                                                                                  |
+|----------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------|
+| Sprint 1             | [https://v1.practicesoftwaretesting.com](https://v1.practicesoftwaretesting.com)               | [https://api-v1.practicesoftwaretesting.com](https://api-v1.practicesoftwaretesting.com/status)               | [https://api-v1.practicesoftwaretesting.com](https://api-v1.practicesoftwaretesting.com/api/documentation)               |
+| Sprint 2             | [https://v2.practicesoftwaretesting.com](https://v2.practicesoftwaretesting.com)               | [https://api-v2.practicesoftwaretesting.com](https://api-v2.practicesoftwaretesting.com/status)               | [https://api-v2.practicesoftwaretesting.com](https://api-v2.practicesoftwaretesting.com/api/documentation)               |
+| Sprint 3             | [https://v3.practicesoftwaretesting.com](https://v3.practicesoftwaretesting.com)               | [https://api-v3.practicesoftwaretesting.com](https://api-v3.practicesoftwaretesting.com/status)               | [https://api-v3.practicesoftwaretesting.com](https://api-v3.practicesoftwaretesting.com/api/documentation)               |
+| Sprint 4             | [https://v4.practicesoftwaretesting.com](https://v4.practicesoftwaretesting.com)               | [https://api-v4.practicesoftwaretesting.com](https://api-v4.practicesoftwaretesting.com/status)               | [https://api-v4.practicesoftwaretesting.com](https://api-v4.practicesoftwaretesting.com/api/documentation)               |
+| Sprint 5             | [https://practicesoftwaretesting.com](https://practicesoftwaretesting.com)                     | [https://api.practicesoftwaretesting.com](https://api.practicesoftwaretesting.com/status)                     | [https://api.practicesoftwaretesting.com](https://api.practicesoftwaretesting.com/api/documentation)                     |
+| Sprint 5 (with bugs) | [https://with-bugs.practicesoftwaretesting.com](https://with-bugs.practicesoftwaretesting.com) | [https://api-with-bugs.practicesoftwaretesting.com](https://api-with-bugs.practicesoftwaretesting.com/status) | [https://api-with-bugs.practicesoftwaretesting.com](https://api-with-bugs.practicesoftwaretesting.com/api/documentation) |
 
-# Chờ khoảng 60 giây để các service khởi động hoàn tất
+## Mobile App
 
-# Tạo database và dữ liệu mẫu
-docker compose exec laravel-api php artisan migrate:fresh --seed --force
+The mobile app is fully integrated with version 4 of Practice Software Testing, which means both share the same environment. Any changes you make through the mobile app (like creating or editing data) will appear on the website, and updates on the website will also show up in the app.
 
-# Kiểm tra ứng dụng: http://localhost:8091 (API), http://localhost:8092 (UI)
-```
+[Android Mobile APK](https://testsmith.s3.eu-central-1.amazonaws.com/artifacts/practice-software-testing.apk)
 
-1. Import collection và environment có sẵn từ `tests/api` vào Postman.
-2. Tạo file `user-accounts.csv` trong `tests/api` chứa các trường: `email`, `password`, `expected_status`.
+[iOS Simulator App](https://testsmith.s3.eu-central-1.amazonaws.com/artifacts/practice-software-testing.zip)
 
-   **Ví dụ mẫu tài khoản:**
+# Using the docker containers
 
-   | email                                | password   | expected_status |
-   |--------------------------------------|------------|-----------------|
-   | admin@practicesoftwaretesting.com    | welcome01  | 200             |
-   | customer@practicesoftwaretesting.com | welcome01  | 200             |
-   | invalid@practicesoftwaretesting.com  | wrongpass  | 401             |
+I will take up to 5 minutes (depending on your internet connection speed), if you run `docker-compose up -d` for the first
+time. Any subsequent `docker-compose up -d` will take seconds.
 
-3. Chỉnh sửa collection để sử dụng biến từ file CSV trong các request (ví dụ: `{{email}}`, `{{password}}`).
-4. Chạy thử collection với file CSV trên Postman bằng chức năng "Run Collection" và chọn data file.
-5. Export lại collection đã chỉnh sửa, thay thế file cũ trong `tests/api`.
+All images together are less than 1,5 GB.
 
----
+## URL's (local version)
 
-### Bước 2: Chạy Newman local
+| URL                                                                                | Description           |
+|------------------------------------------------------------------------------------|-----------------------|
+| [http://localhost:8091](http://localhost:8091)                                     | (REST) API            |
+| [http://localhost:8091/api/documentation](http://localhost:8091/api/documentation) | Swagger               |
+| [http://localhost:1080](http://localhost:1080)                                     | MailCatcher           |
+| [http://localhost:4200](http://localhost:4200)                                     | (Angular) Application |
+| [http://localhost:8000](http://localhost:8000) (`root`/`root`)                     | PHPMyAdmin            |
 
-**Lưu ý**: trước khi chạy nhớ đóng docker (docker compose down)
+## Switch sprint
 
-1. Mở file `run-api-tests.sh` (hoặc `run-api-tests.ps1` - nếu bạn sử dụng PowerShell của hệ điều hành windowns) và tìm dòng có chú thích:
-    ```
-    # TODO (Bạn thêm code ở dưới đây)
-    ```
-    Bổ sung lệnh chạy newman để thực hiện kiểm thử với collection, environment và file CSV ngay dưới dòng này.
-2. Chạy script local để kiểm tra kết quả và sinh ra báo cáo kiểm thử.
+Update the `SPRINT_FOLDER` in [.env](.env) to use the proper version that belongs to the sprint.
 
-    **Hướng dẫn chạy script:**
+## Roll Back - Run Migrations - Seed Database
 
-    Mở terminal, di chuyển đến thư mục gốc của project và chạy lệnh sau:
+`docker-compose exec laravel-api php artisan migrate:fresh --seed`
 
-    ```bash
-    chmod +x run-api-tests.sh
-    ./run-api-tests.sh
-    ```
+## Migrate database schema
 
-    Nếu gặp lỗi "Permission denied", bạn cần cấp quyền thực thi cho script bằng lệnh `chmod +x run-api-tests.sh` trước khi chạy.
+`docker-compose exec laravel-api php artisan migrate`
 
-    Sau khi chạy xong, kiểm tra kết quả kiểm thử và báo cáo được sinh ra trong thư mục hiện tại (hoặc theo đường dẫn được script chỉ định).
+## Seed database
 
-    ---
+`docker-compose exec laravel-api php artisan db:seed`
 
-    ✅ **Cách chạy PowerShell script trên Windows:**
+## Access to the Laravel Logs
 
-    1. Lưu file script với tên `run-api-tests.ps1`.
-    2. Mở PowerShell với quyền admin (nếu cần).
-    3. Nếu bị chặn khi chạy script, cho phép thực thi bằng lệnh:
+`docker-compose exec laravel-api tail -f storage/logs/laravel.log`
 
-        ```powershell
-        Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
-        ```
+## Generate Swagger documentation
 
-    4. Chạy script:
+`docker-compose exec laravel-api php artisan l5-swagger:generate`
 
-        ```powershell
-        .\run-api-tests.ps1
-        ```
+## Update order status
 
-    Sau khi chạy xong, kiểm tra kết quả kiểm thử và báo cáo được sinh ra trong thư mục hiện tại (hoặc theo đường dẫn được script chỉ định).
+`docker-compose exec laravel-api php artisan order:update`
 
----
+## Remove PDF documents
 
-### Yêu cầu 3: Tích hợp GitHub Actions
+`docker-compose exec laravel-api php artisan invoice:remove`
 
-1. **Tạo repository mới trên GitHub** và push toàn bộ code của bạn lên repository này.
+## Generate PDF documents
 
-2. **Thiết lập các secrets cần thiết trên GitHub repository.**  
-    > **Lưu ý:** Các secrets này chính là các giá trị tương ứng trong file `.env` của thư mục `API`.  
-    > Ví dụ, nếu file `.env` có các dòng:
-    > ```
-    > APP_KEY=base64:xxxxxxx
-    > DB_DATABASE=practice_software_testing
-    > DB_USERNAME=root
-    > DB_PASSWORD=password
-    > JWT_SECRET=your-jwt-secret
-    > ```
-    > Thì bạn cần tạo các secrets trên GitHub với tên và giá trị tương ứng:
-    > - `APP_KEY`
-    > - `DB_DATABASE`
-    > - `DB_USERNAME`
-    > - `DB_PASSWORD`
-    > - `JWT_SECRET`
+`docker-compose exec laravel-api php artisan invoice:generate`
 
-3. **Mở file workflow [`api-test.yml`](.github/workflows/api-test.yml)** và tìm bước có chú thích:
-    ```yaml
-    # TODO (Bạn thêm code ở dưới đây)
-    ```
-    Thêm lệnh chạy Newman vào vị trí này để thực hiện kiểm thử tự động.
+## Execute unit tests (sprint 1 to sprint 4)
 
-4. **Đảm bảo workflow có bước upload báo cáo kiểm thử lên mục Artifacts** để lưu trữ và tải về sau khi kiểm thử hoàn thành.
+`./vendor/bin/phpunit`
 
-5. **Push code lên GitHub và kiểm tra quá trình chạy trên GitHub Actions.**  
-    Sau khi workflow hoàn thành, tải về file báo cáo kiểm thử từ mục Artifacts để xem kết quả.
+## Execute unit tests (sprint 5)
 
+`./vendor/bin/pest`
 
----
+## Execute unit tests with coverage
 
-## 3. Kết quả mong đợi
+`XDEBUG_MODE=coverage ./vendor/bin/phpunit --coverage-html tests/coverage`
 
-- Collection chạy được với data từ file CSV trên cả Postman và Newman.
-- Báo cáo kiểm thử được sinh ra và upload thành công lên GitHub Actions.
-- Toàn bộ quá trình kiểm thử tự động hóa được thực hiện qua CI/CD.
+## Start pact-mock-service
 
----
+`pact-mock-service start --host localhost --port 7203 --consumer AnyConsumer --provider ProductAPI --pact-dir ./pacts --log ./storage/logs/pact.log`
 
-**Chúc các bạn hoàn thành tốt bài tập!**
+## Stop pact-mock-service
+
+`pact-mock-service stop --port 7203`
+
+# Sprints
+
+## Sprint 0
+
+During this initial sprint, we made some architectural decisions. We decided to implement a
+super-fast [Laravel](https://laravel.com/) API, as well as an [Angular](https://angular.io/) frontend.
+
+Every developer or tester can spin up the environment on its own machine. This makes testing easier, and it
+allows you to manipulate data.
+
+The deliverable of Sprint0 is a Dockerized environment, just like database seeding scripts. Basically, the result is
+an empty environment.
+
+# Support This Project
+
+If you find this project useful and want to support its ongoing development, please consider [supporting](https://testwithroy.com/b/support) it!
+
+I appreciate your support!

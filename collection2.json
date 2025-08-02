@@ -1,0 +1,65 @@
+{
+	"info": {
+		"_postman_id": "9051765b-a520-4ea4-9f8c-27ae4be32db0",
+		"name": "collection2",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "29193751"
+	},
+	"item": [
+		{
+			"name": "Admin replies a message",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test(\"Status code is 201\", function() {",
+							"    pm.response.to.have.status(201);",
+							"})"
+						],
+						"type": "text/javascript",
+						"packages": {}
+					}
+				}
+			],
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwOi8vbG9jYWxob3N0OjgwOTEvdXNlcnMvbG9naW4iLCJpYXQiOjE3NTQxNDM1MzMsImV4cCI6MTc2OTc0MzUzMywibmJmIjoxNzU0MTQzNTMzLCJqdGkiOiJ0NTI3d2dodERRbzNLRVlBIiwic3ViIjoiMSIsInBydiI6IjIzYmQ1Yzg5NDlmNjAwYWRiMzllNzAxYzQwMDg3MmRiN2E1OTc2ZjciLCJyb2xlIjoiYWRtaW4ifQ.NvsCJLXircCuNnz_46KhmRj8glgE7Cq9G9m8hQSf0lY",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "message",
+							"value": "{{messsage}}",
+							"type": "text"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:8091/messages/{{message_id}}/reply",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8091",
+					"path": [
+						"messages",
+						"{{message_id}}",
+						"reply"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
