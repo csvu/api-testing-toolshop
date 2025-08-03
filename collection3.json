@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "New Request",
+			"name": "Invalid message_id returns not found or bad request",
 			"event": [
 				{
 					"listen": "test",

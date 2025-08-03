@@ -1,501 +1,501 @@
-id,user_id,name,email,subject,message,status,created_at,updated_at
-1,510,Bradley Shepard,ptaylor@hotmail.com,Customer service,Support please!! no one is replying,RESOLVED,2025-02-23 21:56:08,2025-02-23 23:35:08
-2,186,Kimberly Ellis,bradley80@gmail.com,Webmaster,css all messed up on my browser,RESOLVED,2025-06-25 19:49:13,2025-06-25 20:42:13
-3,191,Kevin Charles,udavis@gmail.com,Return,RETURNS!! where do i go??,RESOLVED,2025-04-02 11:13:43,2025-04-02 12:15:43
-4,850,Michael Nichols,fwagner@gmail.com,Warranty,product broken after 3 months... help,IN_PROGRESS,2025-03-11 20:52:20,2025-03-11 23:40:20
-5,332,Misty Harvey,margaret45@gmail.com,Customer service,Support please!! no one is replying,IN_PROGRESS,2025-03-20 03:58:08,2025-03-20 04:14:08
-6,57,Kelli Nichols,timothybyrd@yahoo.com,Customer service,hello i need help,RESOLVED,2025-06-26 03:23:34,2025-06-26 03:49:34
-7,978,Jon Young,xwallace@yahoo.com,Payments,my card was charged twise!,RESOLVED,2025-06-03 05:28:13,2025-06-03 07:07:13
-8,246,Jonathan Evans,shicks@gmail.com,Payments,payment failed but bank say success?,RESOLVED,2025-03-11 08:20:52,2025-03-11 08:30:52
-9,64,Amy Romero,qoliver@hotmail.com,Warranty,how long is the warranty period?,RESOLVED,2025-06-16 04:19:09,2025-06-16 04:51:09
-10,398,Becky Vincent,jason26@hotmail.com,Status of my order,no update on my delivery!,RESOLVED,2025-01-22 02:04:11,2025-01-22 04:43:11
-11,751,Robert Johnson,garciaandrea@gmail.com,Return,RETURNS!! where do i go??,RESOLVED,2025-07-03 03:45:30,2025-07-03 05:37:30
-12,347,Brent Wolf,hrichard@gmail.com,Status of my order,no update on my delivery!,RESOLVED,2025-03-10 20:03:01,2025-03-10 22:27:01
-13,904,Daniel Adams,nathaniel52@yahoo.com,Webmaster,page load forever??,RESOLVED,2025-05-16 23:08:12,2025-05-17 00:17:12
-14,683,Tanner Horton,bestdouglas@hotmail.com,Warranty,product broken after 3 months... help,IN_PROGRESS,2025-02-17 03:37:02,2025-02-17 05:05:02
-15,937,Steven Allen,georgejames@hotmail.com,Payments,"the product not work, how to send it back?",RESOLVED,2025-05-10 08:19:59,2025-05-10 09:26:59
-16,296,Sherry Porter,ncampbell@yahoo.com,Return,RETURNS!! where do i go??,IN_PROGRESS,2025-04-14 12:09:12,2025-04-14 15:09:12
-17,115,Steven Steele,hsalinas@yahoo.com,Webmaster,css all messed up on my browser,RESOLVED,2025-06-12 17:58:35,2025-06-12 20:22:35
-18,201,Jacqueline Lewis,khall@yahoo.com,Payments,payment failed but bank say success?,RESOLVED,2025-05-28 09:36:07,2025-05-28 11:05:07
-19,607,Brenda Lawson,davistyrone@hotmail.com,Error 202: Translation error,checkout button doesnt work!!!,RESOLVED,2025-01-18 00:59:34,2025-01-18 01:29:34
-20,23,Matthew Bonilla,laurenschmidt@hotmail.com,Customer service,Support please!! no one is replying,RESOLVED,2025-04-17 07:47:57,2025-04-17 09:33:57
-21,747,William Rivera,wilsonteresa@yahoo.com,Status of my order,status pls for order #1234,RESOLVED,2025-03-29 05:13:46,2025-03-29 06:30:46
-22,684,Paula Martin,zbeltran@hotmail.com,Status of my order,its been a week and no package yet,RESOLVED,2025-03-09 05:09:44,2025-03-09 06:38:44
-23,307,Kristie Mccormick,rhonda50@yahoo.com,Return,hello i need help,RESOLVED,2025-02-18 20:31:31,2025-02-18 22:27:31
-24,452,Kenneth King,sarawilliams@hotmail.com,Webmaster,checkout button doesnt work!!!,RESOLVED,2025-04-17 16:30:36,2025-04-17 17:07:36
-25,485,Gary Schneider,joycemelendez@hotmail.com,Customer service,hello i need help,IN_PROGRESS,2025-03-07 20:55:32,2025-03-07 23:21:32
-26,265,Robert Harris,joshua48@yahoo.com,Status of my order,where is my order????,IN_PROGRESS,2025-04-23 19:50:03,2025-04-23 21:42:03
-27,129,Robert Osborn,moconnor@yahoo.com,Return,i want to return a broken item.,IN_PROGRESS,2025-05-15 14:13:29,2025-05-15 16:52:29
-28,116,Michael Ali,powersmichael@yahoo.com,Payments,payment failed but bank say success?,RESOLVED,2025-05-29 10:34:03,2025-05-29 13:03:03
-29,116,Amy Rivera,nicholskimberly@hotmail.com,Customer service,Why is no one answering?,IN_PROGRESS,2025-03-05 15:14:04,2025-03-05 15:54:04
-30,92,Martha Smith,wmurphy@gmail.com,Webmaster,page load forever??,IN_PROGRESS,2025-04-04 01:48:30,2025-04-04 02:40:30
-31,945,Timothy Monroe,stacy13@gmail.com,Return,i want to return a broken item.,RESOLVED,2025-04-06 07:19:06,2025-04-06 08:27:06
-32,367,Daniel Jackson,ortizjeffery@hotmail.com,Warranty,product broken after 3 months... help,IN_PROGRESS,2025-01-15 04:50:15,2025-01-15 07:41:15
-33,274,Jeffrey Jordan,wporter@hotmail.com,Status of my order,status pls for order #1234,RESOLVED,2025-06-14 19:54:34,2025-06-14 20:46:34
-34,853,Dennis Best,tammy08@hotmail.com,Payments,site is broken on mobile?,RESOLVED,2025-02-16 10:48:34,2025-02-16 11:07:34
-35,304,Daniel Byrd,lori58@hotmail.com,Return,RETURNS!! where do i go??,IN_PROGRESS,2025-01-28 00:07:22,2025-01-28 02:12:22
-36,987,Samuel Peterson,kimrobinson@gmail.com,Warranty,"lost receipt, can i still claim?",RESOLVED,2025-03-09 13:41:57,2025-03-09 13:56:57
-37,510,Cynthia Fuller,fitzgeraldjessica@gmail.com,Status of my order,status pls for order #1234,RESOLVED,2025-04-26 02:10:54,2025-04-26 02:18:54
-38,478,Laura Edwards,mark61@yahoo.com,Customer service,RETURNS!! where do i go??,RESOLVED,2025-01-15 09:20:27,2025-01-15 12:15:27
-39,711,Debbie Strong,sarajones@gmail.com,Error 202: Translation error,Why is no one answering?,RESOLVED,2025-02-14 16:36:54,2025-02-14 17:05:54
-40,803,Christopher Brown,gkelly@yahoo.com,Payments,payment failed but bank say success?,RESOLVED,2025-07-04 02:18:36,2025-07-04 04:06:36
-41,489,Mr. Anthony Green,nyoung@hotmail.com,Status of my order,its been a week and no package yet,RESOLVED,2025-03-15 18:18:09,2025-03-15 19:25:09
-42,793,Wanda Moreno,amy40@hotmail.com,Warranty,Why is no one answering?,IN_PROGRESS,2025-01-27 10:50:52,2025-01-27 12:06:52
-43,920,Kevin Garcia,clineamanda@gmail.com,Webmaster,site is broken on mobile?,IN_PROGRESS,2025-05-25 01:31:12,2025-05-25 04:27:12
-44,213,Aaron Ford MD,daniel42@yahoo.com,Status of my order,no update on my delivery!,RESOLVED,2025-01-15 00:53:04,2025-01-15 02:39:04
-45,949,Natasha Perry,webbjustin@yahoo.com,Return,item came damaged and i need to send it back,RESOLVED,2025-04-23 21:40:48,2025-04-24 00:12:48
-46,829,Donna Graham,leonardglen@gmail.com,Status of my order,where is my order????,IN_PROGRESS,2025-02-19 18:31:54,2025-02-19 19:41:54
-47,658,Eric Vance,karen38@gmail.com,Payments,do you accept paypal or not?,RESOLVED,2025-01-29 05:04:46,2025-01-29 07:35:46
-48,153,Jacqueline Romero,roy21@gmail.com,Payments,do you accept paypal or not?,RESOLVED,2025-05-06 13:12:37,2025-05-06 15:10:37
-49,32,Aaron Rodriguez,nancylewis@yahoo.com,Customer service,Why is no one answering?,RESOLVED,2025-01-30 16:28:34,2025-01-30 18:04:34
-50,156,Erin Jackson,melissascott@hotmail.com,Return,RETURNS!! where do i go??,RESOLVED,2025-02-15 06:31:12,2025-02-15 07:33:12
-51,635,Heather Pacheco,jasonanderson@gmail.com,Warranty,how long is the warranty period?,RESOLVED,2025-04-19 01:30:56,2025-04-19 02:28:56
-52,776,Taylor Rodriguez,bergwilliam@gmail.com,Return,i want to return a broken item.,IN_PROGRESS,2025-06-13 07:55:33,2025-06-13 08:22:33
-53,979,Paul Green,gerald81@gmail.com,Customer service,Why is no one answering?,IN_PROGRESS,2025-05-30 11:11:14,2025-05-30 11:57:14
-54,651,Patricia Simmons,donna45@hotmail.com,Payments,do you accept paypal or not?,RESOLVED,2025-02-23 22:36:26,2025-02-24 01:36:26
-55,744,Laura Stewart,brownrichard@gmail.com,Return,where is my order????,RESOLVED,2025-04-22 11:25:57,2025-04-22 11:47:57
-56,25,Frederick Dickerson,charlesturner@yahoo.com,Customer service,Why is no one answering?,RESOLVED,2025-01-22 15:07:26,2025-01-22 17:32:26
-57,564,Randy Bond,daniel10@yahoo.com,Error 101: Subject not found,i want to return a broken item.,RESOLVED,2025-06-15 15:48:58,2025-06-15 16:56:58
-58,544,Deborah Powell,scottbrooks@yahoo.com,Status of my order,its been a week and no package yet,RESOLVED,2025-04-20 01:29:35,2025-04-20 02:59:35
-59,299,Mary Butler,floresmary@gmail.com,Webmaster,Why is no one answering?,RESOLVED,2025-03-25 12:04:00,2025-03-25 12:24:00
-60,193,Tyler Cox,mbriggs@gmail.com,Webmaster,hello i need help,RESOLVED,2025-01-29 23:52:59,2025-01-30 01:36:59
-61,922,Tyrone Jones,michaelbrown@yahoo.com,Warranty,product broken after 3 months... help,RESOLVED,2025-06-06 01:11:52,2025-06-06 02:35:52
-62,123,Jennifer Miller,randylove@yahoo.com,Customer service,Why is no one answering?,IN_PROGRESS,2025-07-06 19:14:49,2025-07-06 20:05:49
-63,420,Cynthia Holland,zli@yahoo.com,Customer service,i want to return a broken item.,RESOLVED,2025-03-30 14:02:55,2025-03-30 16:15:55
-64,989,Cynthia Jackson,bclark@hotmail.com,Customer service,can someone answer my question??,RESOLVED,2025-06-11 20:04:50,2025-06-11 21:52:50
-65,253,Daniel Burns,shannon64@hotmail.com,Status of my order,status pls for order #1234,RESOLVED,2025-03-06 07:39:11,2025-03-06 10:01:11
-66,44,Kelly Jenkins,lynchpatricia@gmail.com,Return,RETURNS!! where do i go??,IN_PROGRESS,2025-04-11 02:01:28,2025-04-11 02:29:28
-67,619,Michael Mcguire,derrick46@gmail.com,Customer service,Why is no one answering?,RESOLVED,2025-05-12 15:11:22,2025-05-12 15:49:22
-68,839,Cindy Reed,shannonadams@gmail.com,Customer service,Support please!! no one is replying,RESOLVED,2025-04-23 20:36:09,2025-04-23 23:33:09
-69,716,Donald Hill,josephnavarro@gmail.com,Status of my order,status pls for order #1234,RESOLVED,2025-04-04 18:38:46,2025-04-04 20:44:46
-70,565,Stephanie Larson,jeffreyromero@yahoo.com,Customer service,Support please!! no one is replying,IN_PROGRESS,2025-06-14 23:23:56,2025-06-14 23:39:56
-71,942,Elizabeth Garcia,norman07@hotmail.com,Return,item came damaged and i need to send it back,IN_PROGRESS,2025-05-09 15:38:31,2025-05-09 17:14:31
-72,636,Melissa Mendez,umorgan@gmail.com,Status of my order,no update on my delivery!,RESOLVED,2025-04-17 03:25:50,2025-04-17 06:02:50
-73,236,Christopher Carrillo,robertburns@gmail.com,Status of my order,where is my order????,IN_PROGRESS,2025-04-25 13:18:05,2025-04-25 15:37:05
-74,706,Deanna Black,bporter@gmail.com,Status of my order,its been a week and no package yet,IN_PROGRESS,2025-07-03 05:27:45,2025-07-03 07:45:45
-75,95,James Martinez,lstone@hotmail.com,Payments,do you accept paypal or not?,IN_PROGRESS,2025-06-30 05:06:03,2025-06-30 05:11:03
-76,267,Anthony Lyons,gallaghermarcus@yahoo.com,Error 202: Translation error,"the product not work, how to send it back?",RESOLVED,2025-01-17 07:25:35,2025-01-17 07:53:35
-77,739,Ann Hernandez,ellen89@hotmail.com,Warranty,"lost receipt, can i still claim?",RESOLVED,2025-01-14 04:18:09,2025-01-14 07:08:09
-78,834,Randall Joyce DVM,michelleharris@yahoo.com,Return,"the product not work, how to send it back?",RESOLVED,2025-06-02 06:41:03,2025-06-02 07:12:03
-79,884,Terry Rodriguez,xmccormick@hotmail.com,Error 101: Subject not found,is my item under waranty?,IN_PROGRESS,2025-02-28 08:13:18,2025-02-28 10:00:18
-80,454,Jessica Harris,jenkinspatrick@hotmail.com,Webmaster,site is broken on mobile?,RESOLVED,2025-03-20 21:09:10,2025-03-20 22:17:10
-81,67,Brandy Hunt,masonjeffery@yahoo.com,Payments,my card was charged twise!,RESOLVED,2025-05-14 10:58:06,2025-05-14 11:21:06
-82,803,Rhonda Brown,tiffany20@yahoo.com,Payments,money gone but order not confirmd,IN_PROGRESS,2025-01-18 17:05:02,2025-01-18 19:28:02
-83,674,Joseph Brown,robertmartinez@hotmail.com,Status of my order,where is my order????,RESOLVED,2025-03-08 05:20:37,2025-03-08 07:30:37
-84,561,Michelle Anderson,nrose@hotmail.com,Return,item came damaged and i need to send it back,RESOLVED,2025-07-11 01:24:49,2025-07-11 02:58:49
-85,913,Glenn Phillips,bowensamuel@gmail.com,Error 101: Subject not found,i want to return a broken item.,RESOLVED,2025-06-30 17:41:51,2025-06-30 19:40:51
-86,107,Jessica Bullock,garrettcolon@gmail.com,Customer service,hello i need help,RESOLVED,2025-07-02 09:10:59,2025-07-02 09:57:59
-87,494,Jennifer Horton,bautistascott@hotmail.com,Customer service,Why is no one answering?,RESOLVED,2025-04-26 15:44:37,2025-04-26 17:44:37
-88,522,John Graves,qanthony@gmail.com,Payments,money gone but order not confirmd,RESOLVED,2025-05-18 15:38:42,2025-05-18 18:17:42
-89,588,Danny Newman,allenalicia@gmail.com,Customer service,can someone answer my question??,IN_PROGRESS,2025-06-12 06:22:32,2025-06-12 06:40:32
-90,939,Anthony Gregory DVM,sblack@hotmail.com,Customer service,Why is no one answering?,RESOLVED,2025-05-13 17:00:01,2025-05-13 19:53:01
-91,294,Heidi Smith,fullerdebbie@yahoo.com,Payments,payment failed but bank say success?,IN_PROGRESS,2025-01-15 20:41:00,2025-01-15 23:37:00
-92,647,Christopher Wyatt,jose88@gmail.com,Payments,item came damaged and i need to send it back,IN_PROGRESS,2025-03-07 20:18:46,2025-03-07 22:57:46
-93,812,Erin Campos,campbellchristine@yahoo.com,Warranty,"lost receipt, can i still claim?",IN_PROGRESS,2025-05-19 20:05:03,2025-05-19 22:24:03
-94,658,Timothy Kim,davisbrittany@gmail.com,Return,css all messed up on my browser,RESOLVED,2025-06-18 13:39:15,2025-06-18 14:08:15
-95,846,Adrienne Melton,varcher@gmail.com,Payments,money gone but order not confirmd,RESOLVED,2025-05-03 03:13:46,2025-05-03 05:01:46
-96,56,Joanne Jennings,littlekelly@gmail.com,Customer service,can someone answer my question??,IN_PROGRESS,2025-05-13 04:36:04,2025-05-13 05:22:04
-97,320,Jonathan Nguyen,smithmary@hotmail.com,Customer service,hello i need help,IN_PROGRESS,2025-06-27 04:58:25,2025-06-27 05:21:25
-98,396,Jennifer Hood,vnash@yahoo.com,Customer service,can someone answer my question??,RESOLVED,2025-04-16 20:45:26,2025-04-16 22:58:26
-99,175,Teresa Rivera,shellycook@yahoo.com,Status of my order,no update on my delivery!,RESOLVED,2025-05-28 16:14:31,2025-05-28 16:59:31
-100,781,Teresa Mcclain,nicholaskramer@yahoo.com,Status of my order,no update on my delivery!,IN_PROGRESS,2025-01-25 23:18:48,2025-01-26 00:32:48
-101,207,Stephanie James,rodriguezalexander@gmail.com,Payments,my card was charged twise!,RESOLVED,2025-06-17 04:31:35,2025-06-17 06:23:35
-102,463,Emily Powers,sarah83@yahoo.com,Status of my order,where is my order????,RESOLVED,2025-04-09 19:31:52,2025-04-09 19:43:52
-103,277,Christine Clark,cole91@yahoo.com,Webmaster,site is broken on mobile?,IN_PROGRESS,2025-05-08 05:42:42,2025-05-08 07:09:42
-104,708,Holly Garcia,kelli55@gmail.com,Status of my order,status pls for order #1234,RESOLVED,2025-05-29 17:26:07,2025-05-29 19:33:07
-105,348,Joseph Potter,pagerichard@gmail.com,Status of my order,where is my order????,IN_PROGRESS,2025-04-19 18:25:44,2025-04-19 18:32:44
-106,734,Erica Gonzalez,davidstevenson@gmail.com,Webmaster,css all messed up on my browser,RESOLVED,2025-07-11 09:06:22,2025-07-11 09:35:22
-107,461,Nichole Hunt,fitzpatrickalexander@gmail.com,Return,i want to return a broken item.,RESOLVED,2025-05-31 02:11:32,2025-05-31 02:20:32
-108,284,Elizabeth Rodriguez,robinsonsean@hotmail.com,Webmaster,page load forever??,IN_PROGRESS,2025-02-12 21:56:20,2025-02-12 22:42:20
-109,854,Michele Brady,hopkinswilliam@hotmail.com,Webmaster,product broken after 3 months... help,IN_PROGRESS,2025-07-04 09:12:04,2025-07-04 09:36:04
-110,818,Dr. Derek Walsh,ghendricks@gmail.com,Warranty,is my item under waranty?,RESOLVED,2025-05-20 17:19:07,2025-05-20 20:09:07
-111,86,Robert Fisher,bowmantracy@yahoo.com,Payments,money gone but order not confirmd,RESOLVED,2025-01-13 21:45:40,2025-01-13 22:55:40
-112,582,Paul Cruz,whitesonya@gmail.com,Webmaster,hello i need help,RESOLVED,2025-01-13 03:46:00,2025-01-13 06:40:00
-113,125,Madison Riggs,rachel55@yahoo.com,Return,"the product not work, how to send it back?",IN_PROGRESS,2025-07-08 09:59:08,2025-07-08 10:23:08
-114,597,Sarah Nguyen,sbecker@yahoo.com,Status of my order,its been a week and no package yet,RESOLVED,2025-02-11 22:13:07,2025-02-12 00:58:07
-115,114,Brittany Phelps,tracylong@hotmail.com,Customer service,site is broken on mobile?,IN_PROGRESS,2025-02-14 14:51:03,2025-02-14 17:08:03
-116,165,Tracy Matthews,zcarter@yahoo.com,Customer service,hello i need help,RESOLVED,2025-02-02 12:14:40,2025-02-02 14:16:40
-117,961,Kevin Keller,oneillbrenda@hotmail.com,Error 101: Subject not found,page load forever??,IN_PROGRESS,2025-05-18 09:49:08,2025-05-18 11:02:08
-118,507,Alan Guzman,anthonyhodges@hotmail.com,Payments,payment failed but bank say success?,RESOLVED,2025-02-14 09:51:14,2025-02-14 12:31:14
-119,688,Jennifer Brown,joneschristine@yahoo.com,Webmaster,site is broken on mobile?,RESOLVED,2025-06-28 20:57:08,2025-06-28 21:36:08
-120,17,Lisa Hancock MD,hogankristina@hotmail.com,Warranty,how long is the warranty period?,IN_PROGRESS,2025-02-08 07:59:51,2025-02-08 10:04:51
-121,206,Elizabeth Diaz,elizabethking@yahoo.com,Customer service,can someone answer my question??,RESOLVED,2025-01-22 04:49:24,2025-01-22 05:05:24
-122,566,Brandon Brown,shellyedwards@yahoo.com,Return,i want to return a broken item.,IN_PROGRESS,2025-05-03 13:30:41,2025-05-03 16:06:41
-123,431,Jasmine Robertson,vazquezricky@hotmail.com,Webmaster,page load forever??,RESOLVED,2025-04-19 14:24:54,2025-04-19 16:34:54
-124,962,Melanie Swanson,princejulie@hotmail.com,Customer service,Why is no one answering?,IN_PROGRESS,2025-01-26 00:23:34,2025-01-26 02:39:34
-125,563,Gina Porter,hillmichele@yahoo.com,Status of my order,status pls for order #1234,IN_PROGRESS,2025-05-08 06:29:58,2025-05-08 07:36:58
-126,406,Charles Hodge,victoriasmith@gmail.com,Status of my order,its been a week and no package yet,RESOLVED,2025-06-16 19:37:30,2025-06-16 21:21:30
-127,60,Adam Stevenson,sherryflores@hotmail.com,Status of my order,where is my order????,RESOLVED,2025-02-08 02:38:10,2025-02-08 04:07:10
-128,965,Erin Wiley,simmonsbeth@yahoo.com,Webmaster,site is broken on mobile?,RESOLVED,2025-05-11 22:04:15,2025-05-11 23:00:15
-129,597,Rhonda Delgado,ubright@yahoo.com,Warranty,is my item under waranty?,RESOLVED,2025-05-16 10:16:19,2025-05-16 12:53:19
-130,157,Mark May,justin15@yahoo.com,Error 202: Translation error,payment failed but bank say success?,RESOLVED,2025-03-16 10:15:18,2025-03-16 11:27:18
-131,559,Cory Hicks,katherine24@yahoo.com,Webmaster,can someone answer my question??,RESOLVED,2025-01-13 05:41:31,2025-01-13 06:23:31
-132,998,Ryan Lloyd,meyernatalie@gmail.com,Webmaster,checkout button doesnt work!!!,IN_PROGRESS,2025-06-30 16:57:29,2025-06-30 18:35:29
-133,620,Mary Gonzalez DVM,kcochran@gmail.com,Status of my order,no update on my delivery!,IN_PROGRESS,2025-07-05 19:54:01,2025-07-05 20:34:01
-134,688,Joel Shepherd,henryross@yahoo.com,Payments,payment failed but bank say success?,RESOLVED,2025-05-15 13:42:29,2025-05-15 13:47:29
-135,151,Joshua Clay,scottwashington@gmail.com,Warranty,product broken after 3 months... help,IN_PROGRESS,2025-06-29 01:13:42,2025-06-29 04:02:42
-136,992,Kenneth Osborne,summerswilliam@hotmail.com,Status of my order,"lost receipt, can i still claim?",RESOLVED,2025-06-29 09:37:17,2025-06-29 11:11:17
-137,789,Danielle Williams,otaylor@yahoo.com,Warranty,"lost receipt, can i still claim?",RESOLVED,2025-02-07 09:05:51,2025-02-07 11:13:51
-138,512,Joshua Davis,haguilar@gmail.com,Customer service,can someone answer my question??,RESOLVED,2025-07-10 13:41:00,2025-07-10 14:43:00
-139,441,Stephen Sweeney,qkirk@yahoo.com,Customer service,Support please!! no one is replying,RESOLVED,2025-04-19 03:57:22,2025-04-19 04:24:22
-140,590,Katelyn Mullins,samuelspencer@hotmail.com,Status of my order,where is my order????,IN_PROGRESS,2025-06-22 14:03:03,2025-06-22 14:21:03
-141,367,Amanda Martin,leonardalyssa@yahoo.com,Warranty,how long is the warranty period?,IN_PROGRESS,2025-04-19 19:05:58,2025-04-19 19:14:58
-142,766,Cheryl Reyes,robert16@hotmail.com,Warranty,is my item under waranty?,IN_PROGRESS,2025-03-17 21:26:30,2025-03-17 21:58:30
-143,104,Dr. Mary Rice,dickersonadam@gmail.com,Payments,my card was charged twise!,IN_PROGRESS,2025-06-27 14:16:26,2025-06-27 15:27:26
-144,986,Tina Hansen,brendan22@gmail.com,Return,item came damaged and i need to send it back,IN_PROGRESS,2025-03-04 11:11:12,2025-03-04 13:02:12
-145,141,Heather Rogers,cordovakeith@hotmail.com,Customer service,Why is no one answering?,IN_PROGRESS,2025-05-12 21:25:32,2025-05-12 23:46:32
-146,430,Elizabeth Bond,carolyn69@gmail.com,Warranty,how long is the warranty period?,RESOLVED,2025-04-24 16:49:57,2025-04-24 18:58:57
-147,540,Travis White,bullockchristina@yahoo.com,Return,RETURNS!! where do i go??,RESOLVED,2025-06-06 02:20:59,2025-06-06 03:22:59
-148,167,Julie Pierce,megan98@hotmail.com,Customer service,Why is no one answering?,RESOLVED,2025-03-14 16:19:25,2025-03-14 19:01:25
-149,356,Marcia Vasquez,kbush@gmail.com,Customer service,hello i need help,RESOLVED,2025-03-27 12:05:46,2025-03-27 13:14:46
-150,372,Brian Richard,whitneythomas@hotmail.com,Status of my order,css all messed up on my browser,RESOLVED,2025-03-27 16:44:00,2025-03-27 18:35:00
-151,458,Thomas Cunningham PhD,bhurley@yahoo.com,Webmaster,page load forever??,RESOLVED,2025-06-02 22:22:28,2025-06-02 23:06:28
-152,91,Ashley Kelley,lawsonaustin@yahoo.com,Webmaster,site is broken on mobile?,IN_PROGRESS,2025-04-15 01:45:42,2025-04-15 02:09:42
-153,543,Terri Cline,jonathan92@hotmail.com,Warranty,is my item under waranty?,RESOLVED,2025-02-24 17:45:33,2025-02-24 20:01:33
-154,745,Travis Smith,coxandrew@gmail.com,Status of my order,where is my order????,RESOLVED,2025-01-20 11:15:15,2025-01-20 11:32:15
-155,154,Edward Nguyen,amandawilliams@gmail.com,Customer service,can someone answer my question??,RESOLVED,2025-07-05 09:43:22,2025-07-05 12:22:22
-156,603,Kimberly Hanna MD,kmoore@yahoo.com,Webmaster,page load forever??,IN_PROGRESS,2025-02-08 02:09:22,2025-02-08 02:55:22
-157,295,Adam Lee,chelseyschroeder@hotmail.com,Status of my order,its been a week and no package yet,RESOLVED,2025-02-25 23:15:05,2025-02-26 00:29:05
-158,925,Cindy Smith,mdudley@hotmail.com,Return,"the product not work, how to send it back?",RESOLVED,2025-06-20 09:40:43,2025-06-20 10:15:43
-159,971,Paul Hamilton,bobcarter@gmail.com,Payments,money gone but order not confirmd,RESOLVED,2025-05-10 05:09:03,2025-05-10 06:56:03
-160,219,Julie Martinez,spearsbarry@gmail.com,Webmaster,site is broken on mobile?,RESOLVED,2025-03-11 12:57:44,2025-03-11 13:12:44
-161,355,Jamie Bentley,christinaray@yahoo.com,Customer service,Why is no one answering?,IN_PROGRESS,2025-04-15 00:37:04,2025-04-15 01:31:04
-162,85,Robert Smith,ncisneros@yahoo.com,Webmaster,css all messed up on my browser,RESOLVED,2025-02-26 14:21:08,2025-02-26 14:34:08
-163,969,Tabitha Williams,elizabethwalters@hotmail.com,Error 202: Translation error,can someone answer my question??,RESOLVED,2025-01-30 17:59:28,2025-01-30 20:16:28
-164,51,Michelle Harrell,garrettjohn@yahoo.com,Payments,its been a week and no package yet,IN_PROGRESS,2025-06-26 22:59:37,2025-06-27 01:19:37
-165,596,Matthew Martinez,debraelliott@yahoo.com,Payments,my card was charged twise!,RESOLVED,2025-03-07 02:05:13,2025-03-07 02:23:13
-166,14,Jennifer Johnson,heather30@yahoo.com,Customer service,can someone answer my question??,IN_PROGRESS,2025-06-29 15:45:21,2025-06-29 18:33:21
-167,589,Victoria Willis,jennifergarrison@hotmail.com,Customer service,can someone answer my question??,IN_PROGRESS,2025-03-16 15:24:45,2025-03-16 17:21:45
-168,904,Julie Flores,lisathompson@gmail.com,Status of my order,where is my order????,IN_PROGRESS,2025-06-27 08:49:49,2025-06-27 10:23:49
-169,470,Charles Hall,carsondavid@gmail.com,Return,its been a week and no package yet,IN_PROGRESS,2025-06-29 14:09:54,2025-06-29 15:51:54
-170,689,Justin Johnson,ccombs@hotmail.com,Webmaster,css all messed up on my browser,IN_PROGRESS,2025-06-02 23:38:11,2025-06-02 23:49:11
-171,273,Amanda Martinez,harrisonronnie@gmail.com,Warranty,product broken after 3 months... help,IN_PROGRESS,2025-03-04 01:57:23,2025-03-04 02:46:23
-172,124,Michael Hutchinson,davidbrown@gmail.com,Customer service,can someone answer my question??,RESOLVED,2025-03-13 03:25:14,2025-03-13 04:57:14
-173,121,Albert Torres,lewiscarla@hotmail.com,Payments,money gone but order not confirmd,RESOLVED,2025-01-18 16:44:57,2025-01-18 17:16:57
-174,507,Kimberly Long MD,kimberly26@gmail.com,Payments,my card was charged twise!,RESOLVED,2025-03-12 00:47:42,2025-03-12 01:17:42
-175,150,Marc Grant,ryan40@yahoo.com,Customer service,Why is no one answering?,RESOLVED,2025-02-28 15:38:48,2025-02-28 16:16:48
-176,52,Samuel Smith,imonroe@hotmail.com,Error 202: Translation error,is my item under waranty?,IN_PROGRESS,2025-01-19 01:01:48,2025-01-19 03:56:48
-177,655,David Jones,rwilliams@gmail.com,Customer service,Why is no one answering?,IN_PROGRESS,2025-02-16 15:22:30,2025-02-16 18:09:30
-178,565,Mary Marks,thomaslarry@hotmail.com,Customer service,Support please!! no one is replying,RESOLVED,2025-05-11 14:33:49,2025-05-11 17:04:49
-179,432,Brian Phillips,rebeccachambers@gmail.com,Warranty,"lost receipt, can i still claim?",IN_PROGRESS,2025-06-28 21:55:54,2025-06-28 23:16:54
-180,263,Joshua Browning,henryanna@gmail.com,Return,RETURNS!! where do i go??,IN_PROGRESS,2025-03-17 03:40:55,2025-03-17 06:14:55
-181,351,Marissa Oconnor DDS,kjohnson@gmail.com,Payments,how long is the warranty period?,RESOLVED,2025-01-24 02:12:18,2025-01-24 02:50:18
-182,638,Julie Martin,klucas@yahoo.com,Webmaster,"the product not work, how to send it back?",RESOLVED,2025-04-13 16:26:16,2025-04-13 18:22:16
-183,637,Troy Peterson,marshallaaron@gmail.com,Status of my order,where is my order????,IN_PROGRESS,2025-01-19 02:38:11,2025-01-19 03:16:11
-184,6,Amy Nguyen,aanderson@gmail.com,Return,item came damaged and i need to send it back,IN_PROGRESS,2025-03-15 02:29:36,2025-03-15 03:19:36
-185,833,William Graham,nancy50@gmail.com,Status of my order,its been a week and no package yet,IN_PROGRESS,2025-04-29 13:16:44,2025-04-29 15:00:44
-186,741,Jessica Spencer,jgraham@hotmail.com,Customer service,hello i need help,RESOLVED,2025-02-27 22:36:51,2025-02-28 00:55:51
-187,915,Gregory Carter,debrabarnett@gmail.com,Payments,my card was charged twise!,RESOLVED,2025-01-29 04:38:41,2025-01-29 07:28:41
-188,465,Jon Hunter,burnsbrenda@yahoo.com,Payments,money gone but order not confirmd,RESOLVED,2025-01-16 09:38:11,2025-01-16 09:55:11
-189,297,William Porter,oneillsandra@gmail.com,Customer service,Support please!! no one is replying,RESOLVED,2025-04-16 06:27:38,2025-04-16 08:53:38
-190,463,Keith Harper,theresaowens@hotmail.com,Return,RETURNS!! where do i go??,IN_PROGRESS,2025-05-21 16:07:55,2025-05-21 17:46:55
-191,186,Meghan Hart,amy32@gmail.com,Webmaster,css all messed up on my browser,IN_PROGRESS,2025-04-14 18:53:05,2025-04-14 20:21:05
-192,735,Tracy Russell,bryan95@gmail.com,Warranty,"lost receipt, can i still claim?",RESOLVED,2025-07-11 15:47:15,2025-07-11 17:58:15
-193,563,Hayley Cooper,melissa83@gmail.com,Warranty,product broken after 3 months... help,IN_PROGRESS,2025-06-28 10:21:59,2025-06-28 12:15:59
-194,34,Gary Harper,ortizbeth@gmail.com,Webmaster,site is broken on mobile?,IN_PROGRESS,2025-06-04 13:08:41,2025-06-04 14:34:41
-195,266,Kimberly Davis,danielellis@yahoo.com,Status of my order,where is my order????,RESOLVED,2025-05-24 15:12:06,2025-05-24 16:05:06
-196,961,Ryan Stephens,carterautumn@hotmail.com,Webmaster,site is broken on mobile?,RESOLVED,2025-03-18 06:49:37,2025-03-18 09:43:37
-197,203,Madison Ellison,nwhitaker@gmail.com,Warranty,product broken after 3 months... help,IN_PROGRESS,2025-06-27 06:11:58,2025-06-27 06:48:58
-198,320,Timothy Morgan,kimberlydavis@gmail.com,Error 202: Translation error,product broken after 3 months... help,RESOLVED,2025-04-19 01:20:34,2025-04-19 02:03:34
-199,83,Michael Camacho,sheajoseph@yahoo.com,Customer service,Support please!! no one is replying,IN_PROGRESS,2025-07-08 20:24:47,2025-07-08 21:45:47
-200,533,Lucas Andrews,duranchristopher@gmail.com,Customer service,Why is no one answering?,RESOLVED,2025-06-04 01:58:39,2025-06-04 02:07:39
-201,404,Jeffrey Warren,ballardcraig@gmail.com,Payments,RETURNS!! where do i go??,RESOLVED,2025-02-22 16:58:52,2025-02-22 19:46:52
-202,409,Leslie Morales,walshjustin@hotmail.com,Warranty,"lost receipt, can i still claim?",IN_PROGRESS,2025-05-25 13:07:49,2025-05-25 13:47:49
-203,698,Jason White,holly44@gmail.com,Warranty,how long is the warranty period?,RESOLVED,2025-05-04 02:13:08,2025-05-04 02:33:08
-204,212,Brendan Brown,schultzcurtis@gmail.com,Warranty,i want to return a broken item.,IN_PROGRESS,2025-05-12 20:13:58,2025-05-12 20:24:58
-205,656,Bryan Espinoza,yrobbins@gmail.com,Warranty,how long is the warranty period?,IN_PROGRESS,2025-04-27 19:13:22,2025-04-27 19:39:22
-206,406,Eric Saunders,nmason@yahoo.com,Warranty,product broken after 3 months... help,RESOLVED,2025-03-31 22:40:21,2025-04-01 01:17:21
-207,149,Samantha Carrillo,christopherramos@gmail.com,Return,my card was charged twise!,IN_PROGRESS,2025-02-11 13:53:05,2025-02-11 16:51:05
-208,451,Jessica Flores,elizabeth51@gmail.com,Return,product broken after 3 months... help,IN_PROGRESS,2025-01-15 00:08:49,2025-01-15 02:52:49
-209,972,Caitlin Burns,hjohnson@gmail.com,Error 101: Subject not found,money gone but order not confirmd,IN_PROGRESS,2025-05-04 14:49:10,2025-05-04 16:35:10
-210,322,Dylan Meadows,john57@yahoo.com,Webmaster,checkout button doesnt work!!!,RESOLVED,2025-06-04 18:42:52,2025-06-04 20:14:52
-211,396,Andrew Simon,hdiaz@gmail.com,Status of my order,its been a week and no package yet,IN_PROGRESS,2025-02-28 16:09:39,2025-02-28 17:16:39
-212,921,Adam Hernandez,mooreemma@gmail.com,Customer service,Support please!! no one is replying,RESOLVED,2025-05-28 21:29:28,2025-05-28 22:10:28
-213,475,Courtney Flores,karen78@gmail.com,Payments,my card was charged twise!,IN_PROGRESS,2025-07-04 16:09:10,2025-07-04 17:03:10
-214,121,Chad Alvarez,waustin@gmail.com,Payments,my card was charged twise!,RESOLVED,2025-06-29 07:52:34,2025-06-29 08:11:34
-215,623,Tyler Baldwin,jackson75@yahoo.com,Payments,money gone but order not confirmd,RESOLVED,2025-05-12 13:24:14,2025-05-12 16:06:14
-216,88,Vincent Smith,vhawkins@gmail.com,Payments,my card was charged twise!,RESOLVED,2025-07-01 08:27:26,2025-07-01 09:22:26
-217,762,Christina Richardson,martinezelizabeth@gmail.com,Customer service,Support please!! no one is replying,IN_PROGRESS,2025-02-26 21:53:31,2025-02-26 23:32:31
-218,799,Adam Castro,rwhitaker@yahoo.com,Status of my order,its been a week and no package yet,RESOLVED,2025-03-17 09:54:41,2025-03-17 10:39:41
-219,1000,Sandra Rivera,jasonrandall@hotmail.com,Return,"the product not work, how to send it back?",IN_PROGRESS,2025-05-04 02:50:14,2025-05-04 03:41:14
-220,189,Carolyn Gonzalez,thompsonrobert@gmail.com,Webmaster,page load forever??,IN_PROGRESS,2025-07-08 11:57:28,2025-07-08 13:05:28
-221,232,Willie Conley,toddjohnson@hotmail.com,Customer service,Support please!! no one is replying,IN_PROGRESS,2025-06-01 15:51:47,2025-06-01 16:44:47
-222,397,Jo Miles,samantha02@yahoo.com,Status of my order,where is my order????,IN_PROGRESS,2025-05-30 23:59:03,2025-05-31 02:12:03
-223,641,Keith Horton,matthew27@gmail.com,Webmaster,site is broken on mobile?,RESOLVED,2025-03-07 02:33:15,2025-03-07 03:02:15
-224,84,Emily Conley,campbellshelley@hotmail.com,Status of my order,Support please!! no one is replying,IN_PROGRESS,2025-05-09 02:53:57,2025-05-09 05:33:57
-225,859,Christina Gardner,vjohnson@yahoo.com,Status of my order,status pls for order #1234,RESOLVED,2025-01-23 09:00:25,2025-01-23 11:08:25
-226,391,Lisa Fischer,wangkaylee@yahoo.com,Warranty,how long is the warranty period?,IN_PROGRESS,2025-02-02 06:57:26,2025-02-02 08:31:26
-227,925,Mr. Joseph Harrison,barnesjoseph@yahoo.com,Webmaster,page load forever??,RESOLVED,2025-04-22 06:11:29,2025-04-22 08:44:29
-228,277,Andrew Fisher,ledwards@gmail.com,Return,"the product not work, how to send it back?",RESOLVED,2025-02-09 04:12:44,2025-02-09 05:23:44
-229,74,Emily Allison,david09@yahoo.com,Customer service,Why is no one answering?,RESOLVED,2025-07-11 01:57:11,2025-07-11 04:25:11
-230,983,John Oliver,fordjonathan@hotmail.com,Customer service,Why is no one answering?,RESOLVED,2025-03-11 09:36:57,2025-03-11 11:11:57
-231,416,Tamara Baker,garrettcourtney@gmail.com,Customer service,can someone answer my question??,RESOLVED,2025-03-04 16:14:59,2025-03-04 16:29:59
-232,455,Dr. Renee Dixon DDS,clarkjacob@gmail.com,Payments,my card was charged twise!,RESOLVED,2025-01-28 17:41:29,2025-01-28 20:27:29
-233,469,Tyler Davis,fnorris@yahoo.com,Webmaster,site is broken on mobile?,RESOLVED,2025-05-22 13:54:55,2025-05-22 14:32:55
-234,179,Stacey Davis,olsenbrittany@yahoo.com,Payments,money gone but order not confirmd,RESOLVED,2025-07-12 12:42:21,2025-07-12 14:20:21
-235,317,Christine Martin,georgeevans@yahoo.com,Payments,money gone but order not confirmd,IN_PROGRESS,2025-05-08 14:31:14,2025-05-08 15:05:14
-236,96,Larry Ortiz,wellseduardo@hotmail.com,Status of my order,where is my order????,RESOLVED,2025-05-11 03:50:20,2025-05-11 04:11:20
-237,999,Nathan Miles,stephenjones@yahoo.com,Webmaster,checkout button doesnt work!!!,RESOLVED,2025-03-05 08:53:44,2025-03-05 09:23:44
-238,87,Sydney Harris,bryan12@hotmail.com,Customer service,can someone answer my question??,IN_PROGRESS,2025-01-16 03:12:49,2025-01-16 05:33:49
-239,5,Megan Pugh,pdickson@gmail.com,Payments,my card was charged twise!,RESOLVED,2025-04-18 19:53:22,2025-04-18 22:52:22
-240,717,Dr. Nicole Reeves,stephaniewarren@hotmail.com,Warranty,is my item under waranty?,RESOLVED,2025-06-27 14:19:13,2025-06-27 14:49:13
-241,959,Christopher Mills,allenomar@yahoo.com,Warranty,"lost receipt, can i still claim?",IN_PROGRESS,2025-01-16 03:33:41,2025-01-16 06:02:41
-242,958,Kathryn Elliott,msmith@gmail.com,Status of my order,no update on my delivery!,RESOLVED,2025-01-28 16:40:32,2025-01-28 16:49:32
-243,472,Mark Smith,frankchang@gmail.com,Webmaster,money gone but order not confirmd,IN_PROGRESS,2025-02-17 02:41:37,2025-02-17 04:12:37
-244,564,Matthew Cameron,aaronhopkins@gmail.com,Return,payment failed but bank say success?,IN_PROGRESS,2025-05-01 08:18:39,2025-05-01 08:24:39
-245,139,Savannah Rodriguez,ashley17@hotmail.com,Webmaster,checkout button doesnt work!!!,RESOLVED,2025-04-15 14:48:27,2025-04-15 16:25:27
-246,449,Amy Smith,garytucker@gmail.com,Webmaster,page load forever??,RESOLVED,2025-06-28 01:08:46,2025-06-28 04:03:46
-247,185,Teresa Ayala,valeriejoseph@hotmail.com,Warranty,how long is the warranty period?,RESOLVED,2025-04-10 17:08:02,2025-04-10 19:20:02
-248,775,Felicia Sanchez,cruztraci@gmail.com,Payments,do you accept paypal or not?,IN_PROGRESS,2025-03-13 23:23:49,2025-03-14 00:50:49
-249,827,Monica Reeves,kaneisaac@gmail.com,Return,item came damaged and i need to send it back,RESOLVED,2025-04-11 16:56:53,2025-04-11 18:07:53
-250,91,Dr. David Krueger DDS,smithbeth@gmail.com,Status of my order,where is my order????,RESOLVED,2025-05-14 20:45:53,2025-05-14 21:20:53
-251,777,Tami Olson,daniel33@gmail.com,Webmaster,can someone answer my question??,RESOLVED,2025-05-06 23:29:16,2025-05-07 00:59:16
-252,228,Kristin Mcmillan,jklein@hotmail.com,Payments,payment failed but bank say success?,RESOLVED,2025-05-27 11:50:58,2025-05-27 12:36:58
-253,120,Kathy Larson,lewisthomas@gmail.com,Status of my order,status pls for order #1234,IN_PROGRESS,2025-06-13 07:08:10,2025-06-13 08:21:10
-254,313,Kathy Stuart,stephaniesweeney@gmail.com,Payments,payment failed but bank say success?,RESOLVED,2025-05-31 08:29:04,2025-05-31 11:23:04
-255,823,Roy Perkins,kimberlytran@yahoo.com,Payments,payment failed but bank say success?,IN_PROGRESS,2025-07-07 10:11:46,2025-07-07 12:38:46
-256,622,Dr. Jeffrey Clarke,gavinmarquez@gmail.com,Status of my order,no update on my delivery!,RESOLVED,2025-02-02 05:02:53,2025-02-02 07:42:53
-257,392,April Mccullough,wendy75@hotmail.com,Warranty,"lost receipt, can i still claim?",IN_PROGRESS,2025-02-26 12:34:15,2025-02-26 12:45:15
-258,639,Tyler Alexander,timothy92@yahoo.com,Webmaster,site is broken on mobile?,RESOLVED,2025-05-12 11:53:58,2025-05-12 13:33:58
-259,824,Joanna Atkins,nwilliams@gmail.com,Status of my order,status pls for order #1234,RESOLVED,2025-03-23 18:05:09,2025-03-23 19:37:09
-260,71,Tammy Hopkins,dfields@gmail.com,Webmaster,site is broken on mobile?,RESOLVED,2025-06-12 09:23:03,2025-06-12 10:40:03
-261,699,Hailey Anderson,ubarber@hotmail.com,Webmaster,checkout button doesnt work!!!,RESOLVED,2025-06-02 05:09:05,2025-06-02 07:24:05
-262,441,Sarah Flores,jane57@gmail.com,Warranty,is my item under waranty?,IN_PROGRESS,2025-03-23 18:12:22,2025-03-23 18:42:22
-263,536,Julie Thomas,kristendavis@yahoo.com,Payments,my card was charged twise!,IN_PROGRESS,2025-02-20 20:14:39,2025-02-20 21:13:39
-264,639,Brian Larsen,virginia08@hotmail.com,Return,i want to return a broken item.,IN_PROGRESS,2025-07-13 14:35:36,2025-07-13 15:52:36
-265,523,Brian Smith,xgill@yahoo.com,Return,"the product not work, how to send it back?",RESOLVED,2025-07-07 23:51:27,2025-07-08 00:19:27
-266,784,Ashley Casey,brandonmcguire@yahoo.com,Status of my order,its been a week and no package yet,IN_PROGRESS,2025-05-10 20:00:37,2025-05-10 20:53:37
-267,562,Tracy Jensen,keitheverett@yahoo.com,Webmaster,page load forever??,IN_PROGRESS,2025-03-30 15:52:37,2025-03-30 16:25:37
-268,442,Alan Johnson,reedjames@yahoo.com,Payments,do you accept paypal or not?,RESOLVED,2025-06-12 08:02:50,2025-06-12 08:29:50
-269,415,James Bowman,susan24@yahoo.com,Customer service,hello i need help,IN_PROGRESS,2025-04-01 19:29:58,2025-04-01 22:00:58
-270,609,John Sloan,hensleysusan@yahoo.com,Return,item came damaged and i need to send it back,RESOLVED,2025-06-13 18:44:09,2025-06-13 20:16:09
-271,483,Alexandra Gross,udavidson@hotmail.com,Customer service,no update on my delivery!,IN_PROGRESS,2025-01-21 12:39:24,2025-01-21 14:07:24
-272,350,Adam Lee,carrie67@yahoo.com,Status of my order,no update on my delivery!,IN_PROGRESS,2025-05-18 17:18:51,2025-05-18 17:44:51
-273,166,Lori Gonzalez,autumn04@yahoo.com,Return,where is my order????,RESOLVED,2025-04-15 20:35:21,2025-04-15 23:00:21
-274,368,Rachel Ho,wandayoung@gmail.com,Payments,money gone but order not confirmd,RESOLVED,2025-02-03 21:30:10,2025-02-03 22:16:10
-275,722,Brittany Mitchell,cameronmartin@yahoo.com,Return,RETURNS!! where do i go??,RESOLVED,2025-03-24 08:22:23,2025-03-24 10:58:23
-276,237,Eric Greer,william90@yahoo.com,Customer service,can someone answer my question??,RESOLVED,2025-06-25 15:35:29,2025-06-25 18:06:29
-277,264,John Kim,roserichard@gmail.com,Status of my order,where is my order????,RESOLVED,2025-01-30 06:47:24,2025-01-30 07:15:24
-278,373,Mark Jackson,rthomas@hotmail.com,Customer service,can someone answer my question??,RESOLVED,2025-07-05 04:30:46,2025-07-05 04:48:46
-279,941,Latoya Cox,desiree42@hotmail.com,Status of my order,payment failed but bank say success?,RESOLVED,2025-06-02 10:20:03,2025-06-02 13:13:03
-280,683,Tiffany Morgan,qmoore@gmail.com,Warranty,is my item under waranty?,RESOLVED,2025-02-17 09:04:56,2025-02-17 09:24:56
-281,737,Douglas Everett,madison21@gmail.com,Status of my order,where is my order????,IN_PROGRESS,2025-02-26 21:29:51,2025-02-26 22:10:51
-282,461,Christina Clark,bsolomon@hotmail.com,Error 101: Subject not found,how long is the warranty period?,IN_PROGRESS,2025-03-07 09:11:16,2025-03-07 09:26:16
-283,380,Cynthia Jackson,waltersmax@hotmail.com,Warranty,RETURNS!! where do i go??,IN_PROGRESS,2025-06-29 00:03:10,2025-06-29 01:20:10
-284,957,Sandra Torres,jfreeman@hotmail.com,Customer service,Support please!! no one is replying,IN_PROGRESS,2025-04-17 20:11:09,2025-04-17 21:14:09
-285,226,Ms. Melanie Paul,michaelfrank@gmail.com,Customer service,hello i need help,RESOLVED,2025-01-19 09:15:36,2025-01-19 10:15:36
-286,308,Joyce Moore,ahernandez@gmail.com,Warranty,is my item under waranty?,RESOLVED,2025-01-28 09:01:53,2025-01-28 11:36:53
-287,367,Robert Thompson,sgrant@gmail.com,Status of my order,status pls for order #1234,IN_PROGRESS,2025-01-23 10:50:07,2025-01-23 11:21:07
-288,960,Rebecca Clark,hsanders@gmail.com,Customer service,can someone answer my question??,RESOLVED,2025-06-25 01:39:52,2025-06-25 02:37:52
-289,246,Theodore Rodriguez,robertedwards@yahoo.com,Customer service,hello i need help,RESOLVED,2025-04-20 19:09:25,2025-04-20 20:51:25
-290,629,Joshua Chambers,julie49@hotmail.com,Customer service,can someone answer my question??,IN_PROGRESS,2025-06-09 23:35:22,2025-06-10 01:49:22
-291,686,Sarah Hayes,austindavis@yahoo.com,Return,"the product not work, how to send it back?",RESOLVED,2025-01-30 09:10:03,2025-01-30 11:27:03
-292,971,Carrie Tate DDS,kimberlymiller@hotmail.com,Payments,is my item under waranty?,RESOLVED,2025-07-05 15:39:18,2025-07-05 18:05:18
-293,875,Crystal Padilla,zgutierrez@gmail.com,Customer service,hello i need help,RESOLVED,2025-04-12 19:03:56,2025-04-12 20:37:56
-294,747,Rebecca Levine,vickigonzales@gmail.com,Payments,payment failed but bank say success?,RESOLVED,2025-03-12 20:45:45,2025-03-12 21:55:45
-295,202,Jesus Stone,morrisonariana@yahoo.com,Customer service,Why is no one answering?,RESOLVED,2025-03-28 04:16:23,2025-03-28 05:49:23
-296,488,Mary Harvey,wmay@gmail.com,Status of my order,where is my order????,RESOLVED,2025-06-28 12:29:47,2025-06-28 13:49:47
-297,26,Alec Burton,maryhogan@hotmail.com,Error 202: Translation error,item came damaged and i need to send it back,RESOLVED,2025-01-31 07:42:07,2025-01-31 10:16:07
-298,565,Kevin Wade,durhambrandy@gmail.com,Customer service,can someone answer my question??,RESOLVED,2025-02-04 22:42:23,2025-02-04 23:29:23
-299,190,Mary Singh,adammccoy@yahoo.com,Status of my order,where is my order????,RESOLVED,2025-07-11 23:07:57,2025-07-12 00:44:57
-300,964,Laura Elliott,qortiz@yahoo.com,Customer service,can someone answer my question??,RESOLVED,2025-06-26 16:18:22,2025-06-26 17:33:22
-301,144,Brad Johnson,chandlerpeter@gmail.com,Status of my order,its been a week and no package yet,IN_PROGRESS,2025-03-10 06:10:10,2025-03-10 07:25:10
-302,109,Todd Tucker,shieldskari@gmail.com,Status of my order,its been a week and no package yet,IN_PROGRESS,2025-06-20 13:33:40,2025-06-20 15:04:40
-303,593,Tara Cook,khale@gmail.com,Webmaster,site is broken on mobile?,IN_PROGRESS,2025-01-17 04:56:32,2025-01-17 06:42:32
-304,221,Andrea Meyer,eric92@yahoo.com,Return,RETURNS!! where do i go??,IN_PROGRESS,2025-03-04 00:49:45,2025-03-04 03:18:45
-305,406,Fernando Carter,hbrown@hotmail.com,Error 202: Translation error,status pls for order #1234,IN_PROGRESS,2025-01-27 22:44:36,2025-01-28 00:05:36
-306,632,Scott Phillips,allencindy@yahoo.com,Payments,my card was charged twise!,RESOLVED,2025-04-14 05:28:10,2025-04-14 07:11:10
-307,672,David Alvarado,yschultz@hotmail.com,Status of my order,where is my order????,RESOLVED,2025-04-02 05:41:04,2025-04-02 05:46:04
-308,608,Victoria Santana,cmurray@yahoo.com,Webmaster,site is broken on mobile?,IN_PROGRESS,2025-06-29 02:35:28,2025-06-29 04:09:28
-309,5,Rachel Kramer,christopherpowell@yahoo.com,Payments,money gone but order not confirmd,RESOLVED,2025-07-01 01:38:06,2025-07-01 02:17:06
-310,654,Jorge Smith,lolson@hotmail.com,Payments,do you accept paypal or not?,RESOLVED,2025-04-21 09:02:37,2025-04-21 10:12:37
-311,18,Brandy Craig,fisheranthony@gmail.com,Return,RETURNS!! where do i go??,RESOLVED,2025-07-04 10:51:12,2025-07-04 11:02:12
-312,151,Dominique Mcdaniel,victoriawarren@gmail.com,Webmaster,css all messed up on my browser,RESOLVED,2025-03-14 18:35:41,2025-03-14 21:15:41
-313,408,David Johnson,morrisjeffrey@gmail.com,Return,"the product not work, how to send it back?",IN_PROGRESS,2025-04-15 13:49:04,2025-04-15 15:20:04
-314,629,Chelsea Moore,cnguyen@hotmail.com,Webmaster,site is broken on mobile?,IN_PROGRESS,2025-04-27 12:21:13,2025-04-27 14:34:13
-315,177,Christina Black,tmiranda@yahoo.com,Return,hello i need help,RESOLVED,2025-05-01 15:13:22,2025-05-01 17:33:22
-316,527,James Lewis,osbornetiffany@gmail.com,Status of my order,no update on my delivery!,RESOLVED,2025-04-18 09:12:38,2025-04-18 10:30:38
-317,335,Laurie Gordon,frank56@yahoo.com,Webmaster,css all messed up on my browser,RESOLVED,2025-04-15 12:34:10,2025-04-15 13:18:10
-318,8,Patrick Sawyer,rwood@gmail.com,Status of my order,where is my order????,RESOLVED,2025-02-10 18:16:27,2025-02-10 19:11:27
-319,208,Nathan Thompson,timothy24@hotmail.com,Return,RETURNS!! where do i go??,IN_PROGRESS,2025-03-28 04:15:40,2025-03-28 07:01:40
-320,415,Tara Jones,pjennings@hotmail.com,Error 101: Subject not found,item came damaged and i need to send it back,RESOLVED,2025-04-22 16:42:36,2025-04-22 17:44:36
-321,416,Christopher Richardson,htate@hotmail.com,Return,item came damaged and i need to send it back,IN_PROGRESS,2025-03-12 20:30:29,2025-03-12 22:05:29
-322,676,Douglas Jones,hannahstephens@hotmail.com,Webmaster,css all messed up on my browser,RESOLVED,2025-05-18 02:07:28,2025-05-18 02:44:28
-323,730,Margaret Turner,ruben05@gmail.com,Webmaster,site is broken on mobile?,RESOLVED,2025-02-11 08:49:42,2025-02-11 10:14:42
-324,442,Cassandra Matthews,johnsonsteven@yahoo.com,Customer service,can someone answer my question??,IN_PROGRESS,2025-06-06 07:30:07,2025-06-06 08:41:07
-325,666,Sarah Snow,kpaul@hotmail.com,Customer service,hello i need help,RESOLVED,2025-01-18 16:20:19,2025-01-18 17:57:19
-326,200,Amanda Yates,lewischristine@yahoo.com,Warranty,is my item under waranty?,IN_PROGRESS,2025-03-09 08:41:41,2025-03-09 11:30:41
-327,174,Robert Edwards,tonipeters@yahoo.com,Customer service,can someone answer my question??,IN_PROGRESS,2025-03-25 00:47:53,2025-03-25 03:23:53
-328,180,Christine Garcia,esexton@gmail.com,Customer service,can someone answer my question??,RESOLVED,2025-02-03 05:40:01,2025-02-03 07:21:01
-329,56,Gina Moreno,zwalker@yahoo.com,Customer service,Support please!! no one is replying,RESOLVED,2025-06-03 13:20:36,2025-06-03 14:58:36
-330,414,Robert Rodriguez,christopheringram@gmail.com,Customer service,Support please!! no one is replying,RESOLVED,2025-02-01 00:08:22,2025-02-01 02:59:22
-331,361,Tina Herman,madeline44@hotmail.com,Return,RETURNS!! where do i go??,IN_PROGRESS,2025-04-29 21:46:23,2025-04-29 22:24:23
-332,732,Patricia Austin,denise63@hotmail.com,Return,Why is no one answering?,IN_PROGRESS,2025-04-01 12:00:26,2025-04-01 14:15:26
-333,52,Vincent Campos,grahammadison@hotmail.com,Warranty,"lost receipt, can i still claim?",IN_PROGRESS,2025-06-06 13:16:32,2025-06-06 13:29:32
-334,412,Danielle Brown,brownkrista@hotmail.com,Warranty,"lost receipt, can i still claim?",IN_PROGRESS,2025-06-16 09:38:21,2025-06-16 10:40:21
-335,550,Oscar Campos,nathan19@hotmail.com,Return,item came damaged and i need to send it back,RESOLVED,2025-05-05 14:21:13,2025-05-05 15:45:13
-336,930,John Vaughan,fischeranthony@gmail.com,Customer service,Support please!! no one is replying,RESOLVED,2025-05-15 13:44:01,2025-05-15 14:24:01
-337,831,Kelly Downs,nthomas@yahoo.com,Customer service,can someone answer my question??,RESOLVED,2025-05-04 22:30:01,2025-05-05 00:26:01
-338,738,Allison Smith,anndavis@yahoo.com,Webmaster,site is broken on mobile?,RESOLVED,2025-05-16 21:11:49,2025-05-16 22:31:49
-339,970,Melvin Singh,elizabethwillis@hotmail.com,Customer service,Support please!! no one is replying,RESOLVED,2025-07-09 18:23:03,2025-07-09 18:58:03
-340,69,Kyle Alvarez,gabrielherrera@gmail.com,Customer service,can someone answer my question??,RESOLVED,2025-06-21 20:20:02,2025-06-21 21:24:02
-341,492,Brian Lutz,simonernest@gmail.com,Payments,my card was charged twise!,RESOLVED,2025-04-28 11:34:54,2025-04-28 12:29:54
-342,221,Amy George,whitney92@hotmail.com,Return,i want to return a broken item.,IN_PROGRESS,2025-01-13 00:30:12,2025-01-13 01:49:12
-343,48,Brittany Moore,cindy76@hotmail.com,Return,"the product not work, how to send it back?",RESOLVED,2025-05-24 09:02:23,2025-05-24 10:05:23
-344,427,Rebecca Campbell,barberariel@hotmail.com,Payments,payment failed but bank say success?,IN_PROGRESS,2025-02-28 20:48:06,2025-02-28 23:18:06
-345,514,Teresa Johnson,rsmith@gmail.com,Webmaster,css all messed up on my browser,RESOLVED,2025-02-02 06:09:32,2025-02-02 07:52:32
-346,683,Dustin Robinson,htaylor@yahoo.com,Status of my order,where is my order????,RESOLVED,2025-01-28 14:58:12,2025-01-28 17:23:12
-347,420,Derek Jones,aball@gmail.com,Return,"the product not work, how to send it back?",RESOLVED,2025-01-14 22:09:00,2025-01-15 01:04:00
-348,108,Robin Mullins,cassandrajenkins@yahoo.com,Webmaster,site is broken on mobile?,RESOLVED,2025-04-29 10:50:49,2025-04-29 12:36:49
-349,345,Gary Hall,amandasweeney@yahoo.com,Webmaster,checkout button doesnt work!!!,RESOLVED,2025-06-26 02:14:03,2025-06-26 05:03:03
-350,427,Barbara Yang,hmelendez@hotmail.com,Webmaster,do you accept paypal or not?,RESOLVED,2025-06-03 19:39:45,2025-06-03 20:39:45
-351,682,Nancy Allen,rebeccagraham@gmail.com,Webmaster,RETURNS!! where do i go??,RESOLVED,2025-03-04 07:50:15,2025-03-04 09:42:15
-352,85,Caroline Smith,samanthabrown@gmail.com,Customer service,Support please!! no one is replying,IN_PROGRESS,2025-06-29 12:57:29,2025-06-29 15:32:29
-353,972,Sabrina Oconnor,heatheracosta@gmail.com,Warranty,is my item under waranty?,RESOLVED,2025-02-22 00:30:22,2025-02-22 01:32:22
-354,721,Lisa Norris,aaronmoreno@hotmail.com,Error 101: Subject not found,payment failed but bank say success?,RESOLVED,2025-03-30 05:56:26,2025-03-30 06:40:26
-355,612,Dan Marshall,rileychristopher@gmail.com,Return,i want to return a broken item.,IN_PROGRESS,2025-05-05 22:35:52,2025-05-05 22:59:52
-356,786,Russell Sanchez,ryanchristy@gmail.com,Payments,my card was charged twise!,IN_PROGRESS,2025-06-20 19:36:15,2025-06-20 22:02:15
-357,522,Lori Macdonald,rhondalivingston@gmail.com,Customer service,Why is no one answering?,RESOLVED,2025-02-27 02:42:40,2025-02-27 03:54:40
-358,58,Jorge Jimenez,wilkersoncatherine@gmail.com,Payments,money gone but order not confirmd,RESOLVED,2025-03-21 11:33:56,2025-03-21 12:04:56
-359,675,Matthew Gonzalez,lstevens@gmail.com,Return,RETURNS!! where do i go??,RESOLVED,2025-03-15 18:42:12,2025-03-15 19:48:12
-360,456,Daniel Carey,bruce37@gmail.com,Webmaster,can someone answer my question??,RESOLVED,2025-06-15 12:24:50,2025-06-15 14:55:50
-361,816,Amy Moore,darrenclark@yahoo.com,Status of my order,site is broken on mobile?,RESOLVED,2025-05-16 12:06:53,2025-05-16 12:27:53
-362,331,Ashley Compton,jkaiser@hotmail.com,Status of my order,where is my order????,IN_PROGRESS,2025-03-10 23:25:28,2025-03-11 01:00:28
-363,220,Amy Owens,vmartin@yahoo.com,Warranty,"lost receipt, can i still claim?",RESOLVED,2025-05-04 15:56:40,2025-05-04 17:15:40
-364,361,Kimberly Huffman,alexander51@yahoo.com,Status of my order,its been a week and no package yet,RESOLVED,2025-04-16 18:03:07,2025-04-16 20:19:07
-365,638,Jason Bell,igoodwin@gmail.com,Payments,do you accept paypal or not?,RESOLVED,2025-05-14 04:32:50,2025-05-14 07:24:50
-366,304,Samuel Delacruz,lucaszimmerman@hotmail.com,Webmaster,site is broken on mobile?,RESOLVED,2025-07-11 11:15:48,2025-07-11 11:35:48
-367,737,Brian Smith,zsantiago@hotmail.com,Payments,money gone but order not confirmd,RESOLVED,2025-04-20 10:26:50,2025-04-20 12:00:50
-368,672,Angela Morris,margaretlewis@gmail.com,Warranty,is my item under waranty?,RESOLVED,2025-04-23 19:55:35,2025-04-23 21:42:35
-369,858,Sarah Armstrong,michael28@gmail.com,Warranty,product broken after 3 months... help,IN_PROGRESS,2025-05-14 00:55:00,2025-05-14 02:13:00
-370,394,William Underwood,kellymccoy@hotmail.com,Payments,do you accept paypal or not?,IN_PROGRESS,2025-04-26 10:06:42,2025-04-26 11:22:42
-371,939,Connor Sanchez,reedeugene@yahoo.com,Customer service,Why is no one answering?,RESOLVED,2025-04-16 12:23:48,2025-04-16 14:53:48
-372,639,Sara Rivas,myersmariah@yahoo.com,Webmaster,checkout button doesnt work!!!,RESOLVED,2025-07-11 22:42:19,2025-07-12 00:27:19
-373,537,Tracie Thomas,robert46@hotmail.com,Warranty,"lost receipt, can i still claim?",IN_PROGRESS,2025-02-20 02:50:27,2025-02-20 04:53:27
-374,154,Daniel Wilcox,christianhodges@hotmail.com,Return,i want to return a broken item.,RESOLVED,2025-05-23 18:34:24,2025-05-23 20:44:24
-375,3,Gabriela Banks,ryan53@gmail.com,Customer service,Why is no one answering?,RESOLVED,2025-04-20 08:52:46,2025-04-20 09:47:46
-376,123,Brandon Chandler,burkelaurie@hotmail.com,Customer service,Why is no one answering?,IN_PROGRESS,2025-07-09 06:15:51,2025-07-09 08:30:51
-377,452,Jesse Pace,wooddavid@gmail.com,Return,RETURNS!! where do i go??,IN_PROGRESS,2025-02-07 14:17:41,2025-02-07 16:55:41
-378,95,Cheyenne Shepherd,reneewade@gmail.com,Customer service,hello i need help,RESOLVED,2025-04-05 05:45:35,2025-04-05 06:09:35
-379,945,Christopher Faulkner,martinezgary@yahoo.com,Return,product broken after 3 months... help,RESOLVED,2025-03-12 16:22:47,2025-03-12 18:24:47
-380,847,Dominic Rogers,ccampbell@gmail.com,Webmaster,no update on my delivery!,IN_PROGRESS,2025-03-29 13:21:16,2025-03-29 14:11:16
-381,947,Ronald Lee,aliciasmith@yahoo.com,Payments,do you accept paypal or not?,RESOLVED,2025-03-08 14:28:43,2025-03-08 15:51:43
-382,758,Phyllis Anderson DVM,hector44@yahoo.com,Customer service,Support please!! no one is replying,IN_PROGRESS,2025-04-01 01:27:51,2025-04-01 01:49:51
-383,982,Brian Evans,sandratran@hotmail.com,Payments,payment failed but bank say success?,RESOLVED,2025-03-16 01:48:34,2025-03-16 04:08:34
-384,509,James Hampton,wolferonald@gmail.com,Error 101: Subject not found,Why is no one answering?,RESOLVED,2025-05-24 05:16:49,2025-05-24 06:46:49
-385,90,Ronald Porter,taylorreginald@gmail.com,Webmaster,site is broken on mobile?,RESOLVED,2025-02-12 01:53:15,2025-02-12 04:26:15
-386,657,Tiffany Edwards,eyoung@yahoo.com,Webmaster,i want to return a broken item.,RESOLVED,2025-06-29 06:17:16,2025-06-29 06:49:16
-387,134,Stephen Morris,chaseselena@hotmail.com,Warranty,"lost receipt, can i still claim?",RESOLVED,2025-04-30 22:13:55,2025-04-30 22:38:55
-388,267,Timothy Moore,christinebrown@gmail.com,Customer service,hello i need help,RESOLVED,2025-04-17 00:05:27,2025-04-17 01:10:27
-389,440,Stephanie Smith,kyle99@hotmail.com,Return,RETURNS!! where do i go??,RESOLVED,2025-06-11 02:49:19,2025-06-11 04:38:19
-390,327,Kathryn Allen,georgeturner@yahoo.com,Payments,money gone but order not confirmd,IN_PROGRESS,2025-02-17 08:06:54,2025-02-17 09:54:54
-391,702,Carlos Cole,williamharrell@yahoo.com,Error 202: Translation error,"lost receipt, can i still claim?",IN_PROGRESS,2025-01-23 02:42:33,2025-01-23 04:34:33
-392,664,Heather Meyer,angela98@hotmail.com,Warranty,product broken after 3 months... help,RESOLVED,2025-03-27 02:36:46,2025-03-27 04:30:46
-393,61,Heather Weaver,smithjessica@hotmail.com,Payments,my card was charged twise!,RESOLVED,2025-01-20 15:52:07,2025-01-20 16:12:07
-394,261,Adam Torres,morganmartin@yahoo.com,Customer service,Support please!! no one is replying,RESOLVED,2025-02-12 23:16:20,2025-02-13 01:57:20
-395,275,Brent Hall,kevinhaynes@hotmail.com,Customer service,can someone answer my question??,RESOLVED,2025-01-24 01:42:29,2025-01-24 01:48:29
-396,925,Russell Reynolds,jstevens@gmail.com,Customer service,Why is no one answering?,RESOLVED,2025-03-27 22:32:51,2025-03-27 23:05:51
-397,110,Lauren Walsh,veronica05@hotmail.com,Warranty,product broken after 3 months... help,RESOLVED,2025-02-02 10:48:04,2025-02-02 11:22:04
-398,427,Nicole Green,swiley@yahoo.com,Status of my order,status pls for order #1234,RESOLVED,2025-04-05 18:03:44,2025-04-05 19:56:44
-399,250,Jeffrey Kim,laurabeck@hotmail.com,Return,item came damaged and i need to send it back,RESOLVED,2025-05-15 23:24:19,2025-05-15 23:38:19
-400,160,Colin Duarte,qdixon@yahoo.com,Warranty,is my item under waranty?,IN_PROGRESS,2025-04-15 11:20:25,2025-04-15 14:07:25
-401,385,Paul Smith,zhiggins@gmail.com,Status of my order,status pls for order #1234,RESOLVED,2025-01-20 04:48:08,2025-01-20 07:31:08
-402,957,Katelyn Lopez,ijenkins@yahoo.com,Status of my order,no update on my delivery!,RESOLVED,2025-07-10 06:24:49,2025-07-10 07:33:49
-403,173,Sharon Ward,benjaminbush@gmail.com,Status of my order,where is my order????,RESOLVED,2025-02-17 13:14:30,2025-02-17 13:30:30
-404,141,Thomas Strong,atravis@hotmail.com,Warranty,how long is the warranty period?,IN_PROGRESS,2025-03-10 22:13:34,2025-03-11 00:15:34
-405,626,Michael Bradford,jennifer57@yahoo.com,Status of my order,i want to return a broken item.,RESOLVED,2025-04-23 05:59:43,2025-04-23 07:48:43
-406,567,Jackie Johnson,petersonkristin@gmail.com,Payments,my card was charged twise!,RESOLVED,2025-06-04 11:09:37,2025-06-04 13:46:37
-407,731,Cynthia Tran,slowe@gmail.com,Warranty,how long is the warranty period?,RESOLVED,2025-03-13 08:48:16,2025-03-13 11:24:16
-408,176,Marc Turner,tking@gmail.com,Payments,do you accept paypal or not?,IN_PROGRESS,2025-02-05 21:12:40,2025-02-05 22:43:40
-409,757,Brian Villarreal,hhancock@hotmail.com,Status of my order,no update on my delivery!,IN_PROGRESS,2025-02-17 20:19:13,2025-02-17 20:53:13
-410,844,Mark Gutierrez,ericlozano@hotmail.com,Return,item came damaged and i need to send it back,RESOLVED,2025-05-04 06:13:29,2025-05-04 09:06:29
-411,799,Christina Johnston,uwolfe@gmail.com,Customer service,do you accept paypal or not?,IN_PROGRESS,2025-05-28 15:08:01,2025-05-28 17:14:01
-412,931,Marcus Fisher,phillipswilliam@gmail.com,Return,RETURNS!! where do i go??,RESOLVED,2025-05-27 11:56:47,2025-05-27 14:13:47
-413,399,Andrew Hansen,wendymorales@yahoo.com,Webmaster,Support please!! no one is replying,RESOLVED,2025-01-17 21:53:31,2025-01-17 23:59:31
-414,713,Nathan Hernandez,michaelcampbell@hotmail.com,Webmaster,checkout button doesnt work!!!,IN_PROGRESS,2025-07-08 22:51:25,2025-07-09 00:17:25
-415,162,Tina Davis,hramirez@hotmail.com,Webmaster,site is broken on mobile?,RESOLVED,2025-06-25 23:03:29,2025-06-25 23:14:29
-416,331,Levi Jensen,ojames@yahoo.com,Return,RETURNS!! where do i go??,RESOLVED,2025-06-26 15:58:29,2025-06-26 17:00:29
-417,139,Gregory Lane,jimenezsarah@hotmail.com,Warranty,"lost receipt, can i still claim?",RESOLVED,2025-05-30 19:27:33,2025-05-30 20:31:33
-418,201,Heather Rodriguez,rebeccamorales@yahoo.com,Webmaster,site is broken on mobile?,RESOLVED,2025-01-23 01:41:18,2025-01-23 02:31:18
-419,619,Micheal Dennis,donnathomas@hotmail.com,Return,i want to return a broken item.,RESOLVED,2025-01-19 01:38:27,2025-01-19 04:30:27
-420,329,Sierra Nelson,bowmanjason@hotmail.com,Webmaster,is my item under waranty?,IN_PROGRESS,2025-03-16 03:46:51,2025-03-16 04:07:51
-421,245,Justin Bradshaw,crogers@hotmail.com,Return,RETURNS!! where do i go??,RESOLVED,2025-02-06 19:14:57,2025-02-06 20:52:57
-422,199,Albert Davis,robert11@gmail.com,Return,i want to return a broken item.,IN_PROGRESS,2025-05-24 07:31:23,2025-05-24 09:24:23
-423,139,Abigail Jimenez,michael55@yahoo.com,Warranty,is my item under waranty?,IN_PROGRESS,2025-03-16 14:12:52,2025-03-16 15:17:52
-424,638,Benjamin Mclean,connor05@yahoo.com,Payments,money gone but order not confirmd,RESOLVED,2025-02-09 04:06:38,2025-02-09 05:09:38
-425,522,Alicia Daugherty,dana73@hotmail.com,Status of my order,where is my order????,RESOLVED,2025-04-27 07:46:17,2025-04-27 08:04:17
-426,339,Philip Beltran,charles94@gmail.com,Webmaster,checkout button doesnt work!!!,IN_PROGRESS,2025-04-05 18:28:56,2025-04-05 20:40:56
-427,840,Derrick Evans,megansolomon@gmail.com,Status of my order,where is my order????,RESOLVED,2025-03-01 20:56:36,2025-03-01 22:55:36
-428,489,Katie Bowers,shelleyclark@gmail.com,Status of my order,where is my order????,RESOLVED,2025-07-11 10:41:09,2025-07-11 11:58:09
-429,409,April Smith,ryanbuchanan@yahoo.com,Customer service,Support please!! no one is replying,IN_PROGRESS,2025-06-16 07:49:49,2025-06-16 10:09:49
-430,461,Madeline Woods,dtaylor@hotmail.com,Return,RETURNS!! where do i go??,RESOLVED,2025-02-02 14:45:36,2025-02-02 17:18:36
-431,197,Duane Banks,gonzalespatricia@yahoo.com,Return,item came damaged and i need to send it back,RESOLVED,2025-05-13 21:30:35,2025-05-13 23:36:35
-432,626,Brian Smith,zgarrison@hotmail.com,Return,item came damaged and i need to send it back,IN_PROGRESS,2025-02-14 11:06:41,2025-02-14 12:41:41
-433,514,Danielle Powell,longshannon@yahoo.com,Payments,money gone but order not confirmd,RESOLVED,2025-06-07 12:51:36,2025-06-07 15:49:36
-434,193,Miguel Bartlett Jr.,omontoya@yahoo.com,Return,RETURNS!! where do i go??,IN_PROGRESS,2025-07-08 18:21:04,2025-07-08 20:52:04
-435,762,Robert Walsh,robbinsamanda@hotmail.com,Payments,do you accept paypal or not?,IN_PROGRESS,2025-05-08 09:44:50,2025-05-08 11:45:50
-436,314,Michelle Larson,tommymontgomery@hotmail.com,Status of my order,its been a week and no package yet,RESOLVED,2025-03-20 07:36:21,2025-03-20 10:33:21
-437,399,Lisa Chan,cheyenne82@yahoo.com,Webmaster,css all messed up on my browser,RESOLVED,2025-02-20 22:18:43,2025-02-21 00:28:43
-438,361,Maria Taylor,kristinacrosby@hotmail.com,Payments,do you accept paypal or not?,RESOLVED,2025-05-31 17:58:26,2025-05-31 18:33:26
-439,460,Kim Richardson,cindy03@hotmail.com,Status of my order,no update on my delivery!,IN_PROGRESS,2025-04-02 04:18:33,2025-04-02 07:02:33
-440,105,Brandy Baker,jamesharrison@gmail.com,Warranty,"lost receipt, can i still claim?",RESOLVED,2025-01-27 10:32:13,2025-01-27 10:40:13
-441,863,Trevor Weeks,smithamy@yahoo.com,Webmaster,checkout button doesnt work!!!,RESOLVED,2025-07-02 12:45:18,2025-07-02 15:34:18
-442,753,Ian Lewis,matthew50@hotmail.com,Return,"the product not work, how to send it back?",RESOLVED,2025-02-14 18:27:40,2025-02-14 20:48:40
-443,929,Alexander Faulkner,donna50@yahoo.com,Return,i want to return a broken item.,IN_PROGRESS,2025-02-13 19:17:02,2025-02-13 22:03:02
-444,608,John Bradford,christophervasquez@gmail.com,Warranty,product broken after 3 months... help,RESOLVED,2025-05-29 12:20:13,2025-05-29 13:38:13
-445,180,Mark Haynes,kylehart@hotmail.com,Payments,my card was charged twise!,RESOLVED,2025-05-28 19:55:05,2025-05-28 22:13:05
-446,76,April Zavala,gcase@gmail.com,Status of my order,payment failed but bank say success?,RESOLVED,2025-04-19 07:47:40,2025-04-19 08:07:40
-447,425,Dr. Richard King,williamskimberly@hotmail.com,Customer service,Why is no one answering?,RESOLVED,2025-02-10 13:22:59,2025-02-10 13:40:59
-448,305,Katrina Lewis,stephaniehughes@gmail.com,Error 202: Translation error,payment failed but bank say success?,IN_PROGRESS,2025-07-11 03:08:16,2025-07-11 05:41:16
-449,583,Adam Jenkins,wallacedestiny@yahoo.com,Customer service,Support please!! no one is replying,IN_PROGRESS,2025-07-02 04:41:43,2025-07-02 06:20:43
-450,749,Marissa Williams,hullcaleb@yahoo.com,Webmaster,page load forever??,RESOLVED,2025-04-13 07:19:27,2025-04-13 08:29:27
-451,625,Kyle James,jonestammy@hotmail.com,Return,RETURNS!! where do i go??,RESOLVED,2025-02-04 05:42:55,2025-02-04 07:05:55
-452,153,Brandon Powell,bscott@gmail.com,Webmaster,page load forever??,RESOLVED,2025-04-03 01:09:13,2025-04-03 03:55:13
-453,426,David Melendez,patricia76@hotmail.com,Status of my order,where is my order????,RESOLVED,2025-01-29 09:43:55,2025-01-29 10:01:55
-454,456,Jamie Rivera,kristopher97@gmail.com,Return,RETURNS!! where do i go??,RESOLVED,2025-02-14 21:03:25,2025-02-14 22:56:25
-455,599,Madison Walker,simontiffany@gmail.com,Customer service,Why is no one answering?,RESOLVED,2025-04-02 22:54:16,2025-04-03 01:39:16
-456,270,Christopher Myers,danielle10@gmail.com,Error 202: Translation error,payment failed but bank say success?,RESOLVED,2025-05-17 18:23:13,2025-05-17 20:19:13
-457,997,Wesley Hughes,hodgechelsea@hotmail.com,Return,i want to return a broken item.,IN_PROGRESS,2025-01-23 00:07:55,2025-01-23 02:32:55
-458,907,Cody Daniels,blyons@gmail.com,Status of my order,status pls for order #1234,RESOLVED,2025-06-09 14:41:38,2025-06-09 17:02:38
-459,554,Kathy Tate,vernon93@hotmail.com,Warranty,product broken after 3 months... help,RESOLVED,2025-02-23 07:30:11,2025-02-23 08:52:11
-460,203,Suzanne Keller,walkerscott@gmail.com,Status of my order,no update on my delivery!,IN_PROGRESS,2025-04-17 22:36:32,2025-04-18 01:07:32
-461,420,Dawn Harris,stephaniehensley@hotmail.com,Warranty,Why is no one answering?,RESOLVED,2025-06-01 12:24:48,2025-06-01 14:46:48
-462,881,Brenda Lane,joanne97@gmail.com,Error 202: Translation error,status pls for order #1234,RESOLVED,2025-04-25 09:21:44,2025-04-25 10:55:44
-463,684,Jonathan Johnson,mbenjamin@gmail.com,Warranty,is my item under waranty?,IN_PROGRESS,2025-05-08 23:36:41,2025-05-09 00:12:41
-464,314,Keith Reese,rbrown@gmail.com,Warranty,"lost receipt, can i still claim?",IN_PROGRESS,2025-06-28 04:07:34,2025-06-28 04:18:34
-465,968,Amanda Hines,wonglaura@hotmail.com,Customer service,page load forever??,IN_PROGRESS,2025-06-23 06:25:50,2025-06-23 08:30:50
-466,284,Evan Barnes,floydtyler@yahoo.com,Webmaster,css all messed up on my browser,RESOLVED,2025-06-28 08:23:22,2025-06-28 10:49:22
-467,438,John Howell,kimberlysmith@hotmail.com,Webmaster,checkout button doesnt work!!!,RESOLVED,2025-04-24 07:15:10,2025-04-24 09:35:10
-468,231,Charles Scott,christopher71@yahoo.com,Return,i want to return a broken item.,IN_PROGRESS,2025-05-16 15:56:09,2025-05-16 17:07:09
-469,256,Charles Vazquez,cochranvictoria@yahoo.com,Return,RETURNS!! where do i go??,IN_PROGRESS,2025-03-31 19:20:37,2025-03-31 20:33:37
-470,959,Jennifer Jackson,carterbryan@gmail.com,Warranty,"lost receipt, can i still claim?",RESOLVED,2025-05-25 03:24:24,2025-05-25 03:47:24
-471,702,Ricardo Burns,qwilson@hotmail.com,Customer service,item came damaged and i need to send it back,IN_PROGRESS,2025-03-01 19:37:35,2025-03-01 20:58:35
-472,447,Michael Potter,koconnor@gmail.com,Status of my order,its been a week and no package yet,RESOLVED,2025-05-08 20:37:34,2025-05-08 22:34:34
-473,531,Travis Erickson,ethanarmstrong@hotmail.com,Return,i want to return a broken item.,RESOLVED,2025-01-25 08:21:33,2025-01-25 10:43:33
-474,329,David Smith,heatherbrown@yahoo.com,Error 101: Subject not found,Support please!! no one is replying,RESOLVED,2025-03-03 11:10:40,2025-03-03 11:22:40
-475,1000,Mr. Eugene Phillips,michaelgonzales@yahoo.com,Customer service,Support please!! no one is replying,RESOLVED,2025-06-11 17:46:11,2025-06-11 18:29:11
-476,786,Mary Rogers,hallkevin@hotmail.com,Customer service,hello i need help,RESOLVED,2025-02-22 02:10:05,2025-02-22 02:20:05
-477,165,Matthew Jenkins,mgibson@hotmail.com,Warranty,is my item under waranty?,RESOLVED,2025-05-05 07:35:07,2025-05-05 09:35:07
-478,906,Corey Gomez,hdavies@hotmail.com,Error 101: Subject not found,money gone but order not confirmd,RESOLVED,2025-06-17 20:35:45,2025-06-17 23:24:45
-479,7,John Huber,jorgesanchez@yahoo.com,Status of my order,no update on my delivery!,RESOLVED,2025-06-09 17:41:42,2025-06-09 19:40:42
-480,484,Nicole Holden,deborah61@yahoo.com,Status of my order,no update on my delivery!,RESOLVED,2025-05-15 18:53:42,2025-05-15 21:10:42
-481,766,Debra Price,cjackson@gmail.com,Return,RETURNS!! where do i go??,RESOLVED,2025-04-21 07:52:52,2025-04-21 09:13:52
-482,517,Jordan James,colemanjose@yahoo.com,Status of my order,where is my order????,RESOLVED,2025-01-21 03:09:12,2025-01-21 04:56:12
-483,353,Brian Wilson,carlos18@hotmail.com,Payments,do you accept paypal or not?,IN_PROGRESS,2025-05-16 14:49:53,2025-05-16 17:24:53
-484,534,Justin Bell,tknight@yahoo.com,Status of my order,status pls for order #1234,RESOLVED,2025-01-31 14:10:06,2025-01-31 15:02:06
-485,575,Jennifer Parker,imartin@yahoo.com,Warranty,"lost receipt, can i still claim?",IN_PROGRESS,2025-07-02 16:05:30,2025-07-02 18:48:30
-486,907,Sierra Butler,benjaminwillie@gmail.com,Webmaster,site is broken on mobile?,IN_PROGRESS,2025-03-03 01:56:48,2025-03-03 02:45:48
-487,471,James White,uanderson@hotmail.com,Return,RETURNS!! where do i go??,RESOLVED,2025-07-10 06:40:07,2025-07-10 07:21:07
-488,590,Jennifer Moore,brittany93@gmail.com,Webmaster,payment failed but bank say success?,RESOLVED,2025-06-15 12:53:41,2025-06-15 14:18:41
-489,72,Alexander Mitchell,andrew11@hotmail.com,Customer service,where is my order????,IN_PROGRESS,2025-05-29 11:25:02,2025-05-29 12:04:02
-490,461,Natalie Dean,samuel96@hotmail.com,Status of my order,no update on my delivery!,RESOLVED,2025-03-17 18:03:30,2025-03-17 20:04:30
-491,217,Timothy Green,nlee@yahoo.com,Status of my order,Support please!! no one is replying,RESOLVED,2025-05-25 02:37:45,2025-05-25 04:28:45
-492,782,Renee Brown,benjamin20@yahoo.com,Warranty,"the product not work, how to send it back?",RESOLVED,2025-03-22 12:01:07,2025-03-22 13:35:07
-493,331,Todd Meyer MD,piercejoe@hotmail.com,Payments,payment failed but bank say success?,RESOLVED,2025-05-27 22:57:43,2025-05-28 00:34:43
-494,925,Erin Flores,jennifer32@hotmail.com,Customer service,Support please!! no one is replying,RESOLVED,2025-06-05 01:54:10,2025-06-05 02:57:10
-495,622,James Wells,summersdarlene@gmail.com,Customer service,can someone answer my question??,RESOLVED,2025-05-05 13:38:20,2025-05-05 16:01:20
-496,822,Alan Brooks,amy95@hotmail.com,Webmaster,site is broken on mobile?,RESOLVED,2025-01-18 18:44:20,2025-01-18 20:38:20
-497,530,Marc Whitaker,tallen@yahoo.com,Payments,payment failed but bank say success?,RESOLVED,2025-03-23 18:26:23,2025-03-23 18:56:23
-498,42,Bethany Melton,edwardssamuel@gmail.com,Webmaster,css all messed up on my browser,IN_PROGRESS,2025-05-06 06:16:55,2025-05-06 06:48:55
-499,284,Charlotte Miller,alejandra87@hotmail.com,Webmaster,checkout button doesnt work!!!,IN_PROGRESS,2025-01-25 21:49:33,2025-01-26 00:30:33
-500,51,Christopher Shaw,curtiskevin@gmail.com,Status of my order,i want to return a broken item.,RESOLVED,2025-02-13 23:46:50,2025-02-14 00:46:50
+name,email,subject,message
+Bradley Shepard,ptaylor@hotmail.com,Customer service,Support please!! no one is replying
+Kimberly Ellis,bradley80@gmail.com,Webmaster,css all messed up on my browser
+Kevin Charles,udavis@gmail.com,Return,RETURNS!! where do i go??
+Michael Nichols,fwagner@gmail.com,Warranty,product broken after 3 months... help
+Misty Harvey,margaret45@gmail.com,Customer service,Support please!! no one is replying
+Kelli Nichols,timothybyrd@yahoo.com,Customer service,hello i need help
+Jon Young,xwallace@yahoo.com,Payments,my card was charged twise!
+Jonathan Evans,shicks@gmail.com,Payments,payment failed but bank say success?
+Amy Romero,qoliver@hotmail.com,Warranty,how long is the warranty period?
+Becky Vincent,jason26@hotmail.com,Status of my order,no update on my delivery!
+Robert Johnson,garciaandrea@gmail.com,Return,RETURNS!! where do i go??
+Brent Wolf,hrichard@gmail.com,Status of my order,no update on my delivery!
+Daniel Adams,nathaniel52@yahoo.com,Webmaster,page load forever??
+Tanner Horton,bestdouglas@hotmail.com,Warranty,product broken after 3 months... help
+Steven Allen,georgejames@hotmail.com,Payments,"the product not work, how to send it back?"
+Sherry Porter,ncampbell@yahoo.com,Return,RETURNS!! where do i go??
+Steven Steele,hsalinas@yahoo.com,Webmaster,css all messed up on my browser
+Jacqueline Lewis,khall@yahoo.com,Payments,payment failed but bank say success?
+Brenda Lawson,davistyrone@hotmail.com,Error 202: Translation error,checkout button doesnt work!!!
+Matthew Bonilla,laurenschmidt@hotmail.com,Customer service,Support please!! no one is replying
+William Rivera,wilsonteresa@yahoo.com,Status of my order,status pls for order #1234
+Paula Martin,zbeltran@hotmail.com,Status of my order,its been a week and no package yet
+Kristie Mccormick,rhonda50@yahoo.com,Return,hello i need help
+Kenneth King,sarawilliams@hotmail.com,Webmaster,checkout button doesnt work!!!
+Gary Schneider,joycemelendez@hotmail.com,Customer service,hello i need help
+Robert Harris,joshua48@yahoo.com,Status of my order,where is my order????
+Robert Osborn,moconnor@yahoo.com,Return,i want to return a broken item.
+Michael Ali,powersmichael@yahoo.com,Payments,payment failed but bank say success?
+Amy Rivera,nicholskimberly@hotmail.com,Customer service,Why is no one answering?
+Martha Smith,wmurphy@gmail.com,Webmaster,page load forever??
+Timothy Monroe,stacy13@gmail.com,Return,i want to return a broken item.
+Daniel Jackson,ortizjeffery@hotmail.com,Warranty,product broken after 3 months... help
+Jeffrey Jordan,wporter@hotmail.com,Status of my order,status pls for order #1234
+Dennis Best,tammy08@hotmail.com,Payments,site is broken on mobile?
+Daniel Byrd,lori58@hotmail.com,Return,RETURNS!! where do i go??
+Samuel Peterson,kimrobinson@gmail.com,Warranty,"lost receipt, can i still claim?"
+Cynthia Fuller,fitzgeraldjessica@gmail.com,Status of my order,status pls for order #1234
+Laura Edwards,mark61@yahoo.com,Customer service,RETURNS!! where do i go??
+Debbie Strong,sarajones@gmail.com,Error 202: Translation error,Why is no one answering?
+Christopher Brown,gkelly@yahoo.com,Payments,payment failed but bank say success?
+Mr. Anthony Green,nyoung@hotmail.com,Status of my order,its been a week and no package yet
+Wanda Moreno,amy40@hotmail.com,Warranty,Why is no one answering?
+Kevin Garcia,clineamanda@gmail.com,Webmaster,site is broken on mobile?
+Aaron Ford MD,daniel42@yahoo.com,Status of my order,no update on my delivery!
+Natasha Perry,webbjustin@yahoo.com,Return,item came damaged and i need to send it back
+Donna Graham,leonardglen@gmail.com,Status of my order,where is my order????
+Eric Vance,karen38@gmail.com,Payments,do you accept paypal or not?
+Jacqueline Romero,roy21@gmail.com,Payments,do you accept paypal or not?
+Aaron Rodriguez,nancylewis@yahoo.com,Customer service,Why is no one answering?
+Erin Jackson,melissascott@hotmail.com,Return,RETURNS!! where do i go??
+Heather Pacheco,jasonanderson@gmail.com,Warranty,how long is the warranty period?
+Taylor Rodriguez,bergwilliam@gmail.com,Return,i want to return a broken item.
+Paul Green,gerald81@gmail.com,Customer service,Why is no one answering?
+Patricia Simmons,donna45@hotmail.com,Payments,do you accept paypal or not?
+Laura Stewart,brownrichard@gmail.com,Return,where is my order????
+Frederick Dickerson,charlesturner@yahoo.com,Customer service,Why is no one answering?
+Randy Bond,daniel10@yahoo.com,Error 101: Subject not found,i want to return a broken item.
+Deborah Powell,scottbrooks@yahoo.com,Status of my order,its been a week and no package yet
+Mary Butler,floresmary@gmail.com,Webmaster,Why is no one answering?
+Tyler Cox,mbriggs@gmail.com,Webmaster,hello i need help
+Tyrone Jones,michaelbrown@yahoo.com,Warranty,product broken after 3 months... help
+Jennifer Miller,randylove@yahoo.com,Customer service,Why is no one answering?
+Cynthia Holland,zli@yahoo.com,Customer service,i want to return a broken item.
+Cynthia Jackson,bclark@hotmail.com,Customer service,can someone answer my question??
+Daniel Burns,shannon64@hotmail.com,Status of my order,status pls for order #1234
+Kelly Jenkins,lynchpatricia@gmail.com,Return,RETURNS!! where do i go??
+Michael Mcguire,derrick46@gmail.com,Customer service,Why is no one answering?
+Cindy Reed,shannonadams@gmail.com,Customer service,Support please!! no one is replying
+Donald Hill,josephnavarro@gmail.com,Status of my order,status pls for order #1234
+Stephanie Larson,jeffreyromero@yahoo.com,Customer service,Support please!! no one is replying
+Elizabeth Garcia,norman07@hotmail.com,Return,item came damaged and i need to send it back
+Melissa Mendez,umorgan@gmail.com,Status of my order,no update on my delivery!
+Christopher Carrillo,robertburns@gmail.com,Status of my order,where is my order????
+Deanna Black,bporter@gmail.com,Status of my order,its been a week and no package yet
+James Martinez,lstone@hotmail.com,Payments,do you accept paypal or not?
+Anthony Lyons,gallaghermarcus@yahoo.com,Error 202: Translation error,"the product not work, how to send it back?"
+Ann Hernandez,ellen89@hotmail.com,Warranty,"lost receipt, can i still claim?"
+Randall Joyce DVM,michelleharris@yahoo.com,Return,"the product not work, how to send it back?"
+Terry Rodriguez,xmccormick@hotmail.com,Error 101: Subject not found,is my item under waranty?
+Jessica Harris,jenkinspatrick@hotmail.com,Webmaster,site is broken on mobile?
+Brandy Hunt,masonjeffery@yahoo.com,Payments,my card was charged twise!
+Rhonda Brown,tiffany20@yahoo.com,Payments,money gone but order not confirmd
+Joseph Brown,robertmartinez@hotmail.com,Status of my order,where is my order????
+Michelle Anderson,nrose@hotmail.com,Return,item came damaged and i need to send it back
+Glenn Phillips,bowensamuel@gmail.com,Error 101: Subject not found,i want to return a broken item.
+Jessica Bullock,garrettcolon@gmail.com,Customer service,hello i need help
+Jennifer Horton,bautistascott@hotmail.com,Customer service,Why is no one answering?
+John Graves,qanthony@gmail.com,Payments,money gone but order not confirmd
+Danny Newman,allenalicia@gmail.com,Customer service,can someone answer my question??
+Anthony Gregory DVM,sblack@hotmail.com,Customer service,Why is no one answering?
+Heidi Smith,fullerdebbie@yahoo.com,Payments,payment failed but bank say success?
+Christopher Wyatt,jose88@gmail.com,Payments,item came damaged and i need to send it back
+Erin Campos,campbellchristine@yahoo.com,Warranty,"lost receipt, can i still claim?"
+Timothy Kim,davisbrittany@gmail.com,Return,css all messed up on my browser
+Adrienne Melton,varcher@gmail.com,Payments,money gone but order not confirmd
+Joanne Jennings,littlekelly@gmail.com,Customer service,can someone answer my question??
+Jonathan Nguyen,smithmary@hotmail.com,Customer service,hello i need help
+Jennifer Hood,vnash@yahoo.com,Customer service,can someone answer my question??
+Teresa Rivera,shellycook@yahoo.com,Status of my order,no update on my delivery!
+Teresa Mcclain,nicholaskramer@yahoo.com,Status of my order,no update on my delivery!
+Stephanie James,rodriguezalexander@gmail.com,Payments,my card was charged twise!
+Emily Powers,sarah83@yahoo.com,Status of my order,where is my order????
+Christine Clark,cole91@yahoo.com,Webmaster,site is broken on mobile?
+Holly Garcia,kelli55@gmail.com,Status of my order,status pls for order #1234
+Joseph Potter,pagerichard@gmail.com,Status of my order,where is my order????
+Erica Gonzalez,davidstevenson@gmail.com,Webmaster,css all messed up on my browser
+Nichole Hunt,fitzpatrickalexander@gmail.com,Return,i want to return a broken item.
+Elizabeth Rodriguez,robinsonsean@hotmail.com,Webmaster,page load forever??
+Michele Brady,hopkinswilliam@hotmail.com,Webmaster,product broken after 3 months... help
+Dr. Derek Walsh,ghendricks@gmail.com,Warranty,is my item under waranty?
+Robert Fisher,bowmantracy@yahoo.com,Payments,money gone but order not confirmd
+Paul Cruz,whitesonya@gmail.com,Webmaster,hello i need help
+Madison Riggs,rachel55@yahoo.com,Return,"the product not work, how to send it back?"
+Sarah Nguyen,sbecker@yahoo.com,Status of my order,its been a week and no package yet
+Brittany Phelps,tracylong@hotmail.com,Customer service,site is broken on mobile?
+Tracy Matthews,zcarter@yahoo.com,Customer service,hello i need help
+Kevin Keller,oneillbrenda@hotmail.com,Error 101: Subject not found,page load forever??
+Alan Guzman,anthonyhodges@hotmail.com,Payments,payment failed but bank say success?
+Jennifer Brown,joneschristine@yahoo.com,Webmaster,site is broken on mobile?
+Lisa Hancock MD,hogankristina@hotmail.com,Warranty,how long is the warranty period?
+Elizabeth Diaz,elizabethking@yahoo.com,Customer service,can someone answer my question??
+Brandon Brown,shellyedwards@yahoo.com,Return,i want to return a broken item.
+Jasmine Robertson,vazquezricky@hotmail.com,Webmaster,page load forever??
+Melanie Swanson,princejulie@hotmail.com,Customer service,Why is no one answering?
+Gina Porter,hillmichele@yahoo.com,Status of my order,status pls for order #1234
+Charles Hodge,victoriasmith@gmail.com,Status of my order,its been a week and no package yet
+Adam Stevenson,sherryflores@hotmail.com,Status of my order,where is my order????
+Erin Wiley,simmonsbeth@yahoo.com,Webmaster,site is broken on mobile?
+Rhonda Delgado,ubright@yahoo.com,Warranty,is my item under waranty?
+Mark May,justin15@yahoo.com,Error 202: Translation error,payment failed but bank say success?
+Cory Hicks,katherine24@yahoo.com,Webmaster,can someone answer my question??
+Ryan Lloyd,meyernatalie@gmail.com,Webmaster,checkout button doesnt work!!!
+Mary Gonzalez DVM,kcochran@gmail.com,Status of my order,no update on my delivery!
+Joel Shepherd,henryross@yahoo.com,Payments,payment failed but bank say success?
+Joshua Clay,scottwashington@gmail.com,Warranty,product broken after 3 months... help
+Kenneth Osborne,summerswilliam@hotmail.com,Status of my order,"lost receipt, can i still claim?"
+Danielle Williams,otaylor@yahoo.com,Warranty,"lost receipt, can i still claim?"
+Joshua Davis,haguilar@gmail.com,Customer service,can someone answer my question??
+Stephen Sweeney,qkirk@yahoo.com,Customer service,Support please!! no one is replying
+Katelyn Mullins,samuelspencer@hotmail.com,Status of my order,where is my order????
+Amanda Martin,leonardalyssa@yahoo.com,Warranty,how long is the warranty period?
+Cheryl Reyes,robert16@hotmail.com,Warranty,is my item under waranty?
+Dr. Mary Rice,dickersonadam@gmail.com,Payments,my card was charged twise!
+Tina Hansen,brendan22@gmail.com,Return,item came damaged and i need to send it back
+Heather Rogers,cordovakeith@hotmail.com,Customer service,Why is no one answering?
+Elizabeth Bond,carolyn69@gmail.com,Warranty,how long is the warranty period?
+Travis White,bullockchristina@yahoo.com,Return,RETURNS!! where do i go??
+Julie Pierce,megan98@hotmail.com,Customer service,Why is no one answering?
+Marcia Vasquez,kbush@gmail.com,Customer service,hello i need help
+Brian Richard,whitneythomas@hotmail.com,Status of my order,css all messed up on my browser
+Thomas Cunningham PhD,bhurley@yahoo.com,Webmaster,page load forever??
+Ashley Kelley,lawsonaustin@yahoo.com,Webmaster,site is broken on mobile?
+Terri Cline,jonathan92@hotmail.com,Warranty,is my item under waranty?
+Travis Smith,coxandrew@gmail.com,Status of my order,where is my order????
+Edward Nguyen,amandawilliams@gmail.com,Customer service,can someone answer my question??
+Kimberly Hanna MD,kmoore@yahoo.com,Webmaster,page load forever??
+Adam Lee,chelseyschroeder@hotmail.com,Status of my order,its been a week and no package yet
+Cindy Smith,mdudley@hotmail.com,Return,"the product not work, how to send it back?"
+Paul Hamilton,bobcarter@gmail.com,Payments,money gone but order not confirmd
+Julie Martinez,spearsbarry@gmail.com,Webmaster,site is broken on mobile?
+Jamie Bentley,christinaray@yahoo.com,Customer service,Why is no one answering?
+Robert Smith,ncisneros@yahoo.com,Webmaster,css all messed up on my browser
+Tabitha Williams,elizabethwalters@hotmail.com,Error 202: Translation error,can someone answer my question??
+Michelle Harrell,garrettjohn@yahoo.com,Payments,its been a week and no package yet
+Matthew Martinez,debraelliott@yahoo.com,Payments,my card was charged twise!
+Jennifer Johnson,heather30@yahoo.com,Customer service,can someone answer my question??
+Victoria Willis,jennifergarrison@hotmail.com,Customer service,can someone answer my question??
+Julie Flores,lisathompson@gmail.com,Status of my order,where is my order????
+Charles Hall,carsondavid@gmail.com,Return,its been a week and no package yet
+Justin Johnson,ccombs@hotmail.com,Webmaster,css all messed up on my browser
+Amanda Martinez,harrisonronnie@gmail.com,Warranty,product broken after 3 months... help
+Michael Hutchinson,davidbrown@gmail.com,Customer service,can someone answer my question??
+Albert Torres,lewiscarla@hotmail.com,Payments,money gone but order not confirmd
+Kimberly Long MD,kimberly26@gmail.com,Payments,my card was charged twise!
+Marc Grant,ryan40@yahoo.com,Customer service,Why is no one answering?
+Samuel Smith,imonroe@hotmail.com,Error 202: Translation error,is my item under waranty?
+David Jones,rwilliams@gmail.com,Customer service,Why is no one answering?
+Mary Marks,thomaslarry@hotmail.com,Customer service,Support please!! no one is replying
+Brian Phillips,rebeccachambers@gmail.com,Warranty,"lost receipt, can i still claim?"
+Joshua Browning,henryanna@gmail.com,Return,RETURNS!! where do i go??
+Marissa Oconnor DDS,kjohnson@gmail.com,Payments,how long is the warranty period?
+Julie Martin,klucas@yahoo.com,Webmaster,"the product not work, how to send it back?"
+Troy Peterson,marshallaaron@gmail.com,Status of my order,where is my order????
+Amy Nguyen,aanderson@gmail.com,Return,item came damaged and i need to send it back
+William Graham,nancy50@gmail.com,Status of my order,its been a week and no package yet
+Jessica Spencer,jgraham@hotmail.com,Customer service,hello i need help
+Gregory Carter,debrabarnett@gmail.com,Payments,my card was charged twise!
+Jon Hunter,burnsbrenda@yahoo.com,Payments,money gone but order not confirmd
+William Porter,oneillsandra@gmail.com,Customer service,Support please!! no one is replying
+Keith Harper,theresaowens@hotmail.com,Return,RETURNS!! where do i go??
+Meghan Hart,amy32@gmail.com,Webmaster,css all messed up on my browser
+Tracy Russell,bryan95@gmail.com,Warranty,"lost receipt, can i still claim?"
+Hayley Cooper,melissa83@gmail.com,Warranty,product broken after 3 months... help
+Gary Harper,ortizbeth@gmail.com,Webmaster,site is broken on mobile?
+Kimberly Davis,danielellis@yahoo.com,Status of my order,where is my order????
+Ryan Stephens,carterautumn@hotmail.com,Webmaster,site is broken on mobile?
+Madison Ellison,nwhitaker@gmail.com,Warranty,product broken after 3 months... help
+Timothy Morgan,kimberlydavis@gmail.com,Error 202: Translation error,product broken after 3 months... help
+Michael Camacho,sheajoseph@yahoo.com,Customer service,Support please!! no one is replying
+Lucas Andrews,duranchristopher@gmail.com,Customer service,Why is no one answering?
+Jeffrey Warren,ballardcraig@gmail.com,Payments,RETURNS!! where do i go??
+Leslie Morales,walshjustin@hotmail.com,Warranty,"lost receipt, can i still claim?"
+Jason White,holly44@gmail.com,Warranty,how long is the warranty period?
+Brendan Brown,schultzcurtis@gmail.com,Warranty,i want to return a broken item.
+Bryan Espinoza,yrobbins@gmail.com,Warranty,how long is the warranty period?
+Eric Saunders,nmason@yahoo.com,Warranty,product broken after 3 months... help
+Samantha Carrillo,christopherramos@gmail.com,Return,my card was charged twise!
+Jessica Flores,elizabeth51@gmail.com,Return,product broken after 3 months... help
+Caitlin Burns,hjohnson@gmail.com,Error 101: Subject not found,money gone but order not confirmd
+Dylan Meadows,john57@yahoo.com,Webmaster,checkout button doesnt work!!!
+Andrew Simon,hdiaz@gmail.com,Status of my order,its been a week and no package yet
+Adam Hernandez,mooreemma@gmail.com,Customer service,Support please!! no one is replying
+Courtney Flores,karen78@gmail.com,Payments,my card was charged twise!
+Chad Alvarez,waustin@gmail.com,Payments,my card was charged twise!
+Tyler Baldwin,jackson75@yahoo.com,Payments,money gone but order not confirmd
+Vincent Smith,vhawkins@gmail.com,Payments,my card was charged twise!
+Christina Richardson,martinezelizabeth@gmail.com,Customer service,Support please!! no one is replying
+Adam Castro,rwhitaker@yahoo.com,Status of my order,its been a week and no package yet
+Sandra Rivera,jasonrandall@hotmail.com,Return,"the product not work, how to send it back?"
+Carolyn Gonzalez,thompsonrobert@gmail.com,Webmaster,page load forever??
+Willie Conley,toddjohnson@hotmail.com,Customer service,Support please!! no one is replying
+Jo Miles,samantha02@yahoo.com,Status of my order,where is my order????
+Keith Horton,matthew27@gmail.com,Webmaster,site is broken on mobile?
+Emily Conley,campbellshelley@hotmail.com,Status of my order,Support please!! no one is replying
+Christina Gardner,vjohnson@yahoo.com,Status of my order,status pls for order #1234
+Lisa Fischer,wangkaylee@yahoo.com,Warranty,how long is the warranty period?
+Mr. Joseph Harrison,barnesjoseph@yahoo.com,Webmaster,page load forever??
+Andrew Fisher,ledwards@gmail.com,Return,"the product not work, how to send it back?"
+Emily Allison,david09@yahoo.com,Customer service,Why is no one answering?
+John Oliver,fordjonathan@hotmail.com,Customer service,Why is no one answering?
+Tamara Baker,garrettcourtney@gmail.com,Customer service,can someone answer my question??
+Dr. Renee Dixon DDS,clarkjacob@gmail.com,Payments,my card was charged twise!
+Tyler Davis,fnorris@yahoo.com,Webmaster,site is broken on mobile?
+Stacey Davis,olsenbrittany@yahoo.com,Payments,money gone but order not confirmd
+Christine Martin,georgeevans@yahoo.com,Payments,money gone but order not confirmd
+Larry Ortiz,wellseduardo@hotmail.com,Status of my order,where is my order????
+Nathan Miles,stephenjones@yahoo.com,Webmaster,checkout button doesnt work!!!
+Sydney Harris,bryan12@hotmail.com,Customer service,can someone answer my question??
+Megan Pugh,pdickson@gmail.com,Payments,my card was charged twise!
+Dr. Nicole Reeves,stephaniewarren@hotmail.com,Warranty,is my item under waranty?
+Christopher Mills,allenomar@yahoo.com,Warranty,"lost receipt, can i still claim?"
+Kathryn Elliott,msmith@gmail.com,Status of my order,no update on my delivery!
+Mark Smith,frankchang@gmail.com,Webmaster,money gone but order not confirmd
+Matthew Cameron,aaronhopkins@gmail.com,Return,payment failed but bank say success?
+Savannah Rodriguez,ashley17@hotmail.com,Webmaster,checkout button doesnt work!!!
+Amy Smith,garytucker@gmail.com,Webmaster,page load forever??
+Teresa Ayala,valeriejoseph@hotmail.com,Warranty,how long is the warranty period?
+Felicia Sanchez,cruztraci@gmail.com,Payments,do you accept paypal or not?
+Monica Reeves,kaneisaac@gmail.com,Return,item came damaged and i need to send it back
+Dr. David Krueger DDS,smithbeth@gmail.com,Status of my order,where is my order????
+Tami Olson,daniel33@gmail.com,Webmaster,can someone answer my question??
+Kristin Mcmillan,jklein@hotmail.com,Payments,payment failed but bank say success?
+Kathy Larson,lewisthomas@gmail.com,Status of my order,status pls for order #1234
+Kathy Stuart,stephaniesweeney@gmail.com,Payments,payment failed but bank say success?
+Roy Perkins,kimberlytran@yahoo.com,Payments,payment failed but bank say success?
+Dr. Jeffrey Clarke,gavinmarquez@gmail.com,Status of my order,no update on my delivery!
+April Mccullough,wendy75@hotmail.com,Warranty,"lost receipt, can i still claim?"
+Tyler Alexander,timothy92@yahoo.com,Webmaster,site is broken on mobile?
+Joanna Atkins,nwilliams@gmail.com,Status of my order,status pls for order #1234
+Tammy Hopkins,dfields@gmail.com,Webmaster,site is broken on mobile?
+Hailey Anderson,ubarber@hotmail.com,Webmaster,checkout button doesnt work!!!
+Sarah Flores,jane57@gmail.com,Warranty,is my item under waranty?
+Julie Thomas,kristendavis@yahoo.com,Payments,my card was charged twise!
+Brian Larsen,virginia08@hotmail.com,Return,i want to return a broken item.
+Brian Smith,xgill@yahoo.com,Return,"the product not work, how to send it back?"
+Ashley Casey,brandonmcguire@yahoo.com,Status of my order,its been a week and no package yet
+Tracy Jensen,keitheverett@yahoo.com,Webmaster,page load forever??
+Alan Johnson,reedjames@yahoo.com,Payments,do you accept paypal or not?
+James Bowman,susan24@yahoo.com,Customer service,hello i need help
+John Sloan,hensleysusan@yahoo.com,Return,item came damaged and i need to send it back
+Alexandra Gross,udavidson@hotmail.com,Customer service,no update on my delivery!
+Adam Lee,carrie67@yahoo.com,Status of my order,no update on my delivery!
+Lori Gonzalez,autumn04@yahoo.com,Return,where is my order????
+Rachel Ho,wandayoung@gmail.com,Payments,money gone but order not confirmd
+Brittany Mitchell,cameronmartin@yahoo.com,Return,RETURNS!! where do i go??
+Eric Greer,william90@yahoo.com,Customer service,can someone answer my question??
+John Kim,roserichard@gmail.com,Status of my order,where is my order????
+Mark Jackson,rthomas@hotmail.com,Customer service,can someone answer my question??
+Latoya Cox,desiree42@hotmail.com,Status of my order,payment failed but bank say success?
+Tiffany Morgan,qmoore@gmail.com,Warranty,is my item under waranty?
+Douglas Everett,madison21@gmail.com,Status of my order,where is my order????
+Christina Clark,bsolomon@hotmail.com,Error 101: Subject not found,how long is the warranty period?
+Cynthia Jackson,waltersmax@hotmail.com,Warranty,RETURNS!! where do i go??
+Sandra Torres,jfreeman@hotmail.com,Customer service,Support please!! no one is replying
+Ms. Melanie Paul,michaelfrank@gmail.com,Customer service,hello i need help
+Joyce Moore,ahernandez@gmail.com,Warranty,is my item under waranty?
+Robert Thompson,sgrant@gmail.com,Status of my order,status pls for order #1234
+Rebecca Clark,hsanders@gmail.com,Customer service,can someone answer my question??
+Theodore Rodriguez,robertedwards@yahoo.com,Customer service,hello i need help
+Joshua Chambers,julie49@hotmail.com,Customer service,can someone answer my question??
+Sarah Hayes,austindavis@yahoo.com,Return,"the product not work, how to send it back?"
+Carrie Tate DDS,kimberlymiller@hotmail.com,Payments,is my item under waranty?
+Crystal Padilla,zgutierrez@gmail.com,Customer service,hello i need help
+Rebecca Levine,vickigonzales@gmail.com,Payments,payment failed but bank say success?
+Jesus Stone,morrisonariana@yahoo.com,Customer service,Why is no one answering?
+Mary Harvey,wmay@gmail.com,Status of my order,where is my order????
+Alec Burton,maryhogan@hotmail.com,Error 202: Translation error,item came damaged and i need to send it back
+Kevin Wade,durhambrandy@gmail.com,Customer service,can someone answer my question??
+Mary Singh,adammccoy@yahoo.com,Status of my order,where is my order????
+Laura Elliott,qortiz@yahoo.com,Customer service,can someone answer my question??
+Brad Johnson,chandlerpeter@gmail.com,Status of my order,its been a week and no package yet
+Todd Tucker,shieldskari@gmail.com,Status of my order,its been a week and no package yet
+Tara Cook,khale@gmail.com,Webmaster,site is broken on mobile?
+Andrea Meyer,eric92@yahoo.com,Return,RETURNS!! where do i go??
+Fernando Carter,hbrown@hotmail.com,Error 202: Translation error,status pls for order #1234
+Scott Phillips,allencindy@yahoo.com,Payments,my card was charged twise!
+David Alvarado,yschultz@hotmail.com,Status of my order,where is my order????
+Victoria Santana,cmurray@yahoo.com,Webmaster,site is broken on mobile?
+Rachel Kramer,christopherpowell@yahoo.com,Payments,money gone but order not confirmd
+Jorge Smith,lolson@hotmail.com,Payments,do you accept paypal or not?
+Brandy Craig,fisheranthony@gmail.com,Return,RETURNS!! where do i go??
+Dominique Mcdaniel,victoriawarren@gmail.com,Webmaster,css all messed up on my browser
+David Johnson,morrisjeffrey@gmail.com,Return,"the product not work, how to send it back?"
+Chelsea Moore,cnguyen@hotmail.com,Webmaster,site is broken on mobile?
+Christina Black,tmiranda@yahoo.com,Return,hello i need help
+James Lewis,osbornetiffany@gmail.com,Status of my order,no update on my delivery!
+Laurie Gordon,frank56@yahoo.com,Webmaster,css all messed up on my browser
+Patrick Sawyer,rwood@gmail.com,Status of my order,where is my order????
+Nathan Thompson,timothy24@hotmail.com,Return,RETURNS!! where do i go??
+Tara Jones,pjennings@hotmail.com,Error 101: Subject not found,item came damaged and i need to send it back
+Christopher Richardson,htate@hotmail.com,Return,item came damaged and i need to send it back
+Douglas Jones,hannahstephens@hotmail.com,Webmaster,css all messed up on my browser
+Margaret Turner,ruben05@gmail.com,Webmaster,site is broken on mobile?
+Cassandra Matthews,johnsonsteven@yahoo.com,Customer service,can someone answer my question??
+Sarah Snow,kpaul@hotmail.com,Customer service,hello i need help
+Amanda Yates,lewischristine@yahoo.com,Warranty,is my item under waranty?
+Robert Edwards,tonipeters@yahoo.com,Customer service,can someone answer my question??
+Christine Garcia,esexton@gmail.com,Customer service,can someone answer my question??
+Gina Moreno,zwalker@yahoo.com,Customer service,Support please!! no one is replying
+Robert Rodriguez,christopheringram@gmail.com,Customer service,Support please!! no one is replying
+Tina Herman,madeline44@hotmail.com,Return,RETURNS!! where do i go??
+Patricia Austin,denise63@hotmail.com,Return,Why is no one answering?
+Vincent Campos,grahammadison@hotmail.com,Warranty,"lost receipt, can i still claim?"
+Danielle Brown,brownkrista@hotmail.com,Warranty,"lost receipt, can i still claim?"
+Oscar Campos,nathan19@hotmail.com,Return,item came damaged and i need to send it back
+John Vaughan,fischeranthony@gmail.com,Customer service,Support please!! no one is replying
+Kelly Downs,nthomas@yahoo.com,Customer service,can someone answer my question??
+Allison Smith,anndavis@yahoo.com,Webmaster,site is broken on mobile?
+Melvin Singh,elizabethwillis@hotmail.com,Customer service,Support please!! no one is replying
+Kyle Alvarez,gabrielherrera@gmail.com,Customer service,can someone answer my question??
+Brian Lutz,simonernest@gmail.com,Payments,my card was charged twise!
+Amy George,whitney92@hotmail.com,Return,i want to return a broken item.
+Brittany Moore,cindy76@hotmail.com,Return,"the product not work, how to send it back?"
+Rebecca Campbell,barberariel@hotmail.com,Payments,payment failed but bank say success?
+Teresa Johnson,rsmith@gmail.com,Webmaster,css all messed up on my browser
+Dustin Robinson,htaylor@yahoo.com,Status of my order,where is my order????
+Derek Jones,aball@gmail.com,Return,"the product not work, how to send it back?"
+Robin Mullins,cassandrajenkins@yahoo.com,Webmaster,site is broken on mobile?
+Gary Hall,amandasweeney@yahoo.com,Webmaster,checkout button doesnt work!!!
+Barbara Yang,hmelendez@hotmail.com,Webmaster,do you accept paypal or not?
+Nancy Allen,rebeccagraham@gmail.com,Webmaster,RETURNS!! where do i go??
+Caroline Smith,samanthabrown@gmail.com,Customer service,Support please!! no one is replying
+Sabrina Oconnor,heatheracosta@gmail.com,Warranty,is my item under waranty?
+Lisa Norris,aaronmoreno@hotmail.com,Error 101: Subject not found,payment failed but bank say success?
+Dan Marshall,rileychristopher@gmail.com,Return,i want to return a broken item.
+Russell Sanchez,ryanchristy@gmail.com,Payments,my card was charged twise!
+Lori Macdonald,rhondalivingston@gmail.com,Customer service,Why is no one answering?
+Jorge Jimenez,wilkersoncatherine@gmail.com,Payments,money gone but order not confirmd
+Matthew Gonzalez,lstevens@gmail.com,Return,RETURNS!! where do i go??
+Daniel Carey,bruce37@gmail.com,Webmaster,can someone answer my question??
+Amy Moore,darrenclark@yahoo.com,Status of my order,site is broken on mobile?
+Ashley Compton,jkaiser@hotmail.com,Status of my order,where is my order????
+Amy Owens,vmartin@yahoo.com,Warranty,"lost receipt, can i still claim?"
+Kimberly Huffman,alexander51@yahoo.com,Status of my order,its been a week and no package yet
+Jason Bell,igoodwin@gmail.com,Payments,do you accept paypal or not?
+Samuel Delacruz,lucaszimmerman@hotmail.com,Webmaster,site is broken on mobile?
+Brian Smith,zsantiago@hotmail.com,Payments,money gone but order not confirmd
+Angela Morris,margaretlewis@gmail.com,Warranty,is my item under waranty?
+Sarah Armstrong,michael28@gmail.com,Warranty,product broken after 3 months... help
+William Underwood,kellymccoy@hotmail.com,Payments,do you accept paypal or not?
+Connor Sanchez,reedeugene@yahoo.com,Customer service,Why is no one answering?
+Sara Rivas,myersmariah@yahoo.com,Webmaster,checkout button doesnt work!!!
+Tracie Thomas,robert46@hotmail.com,Warranty,"lost receipt, can i still claim?"
+Daniel Wilcox,christianhodges@hotmail.com,Return,i want to return a broken item.
+Gabriela Banks,ryan53@gmail.com,Customer service,Why is no one answering?
+Brandon Chandler,burkelaurie@hotmail.com,Customer service,Why is no one answering?
+Jesse Pace,wooddavid@gmail.com,Return,RETURNS!! where do i go??
+Cheyenne Shepherd,reneewade@gmail.com,Customer service,hello i need help
+Christopher Faulkner,martinezgary@yahoo.com,Return,product broken after 3 months... help
+Dominic Rogers,ccampbell@gmail.com,Webmaster,no update on my delivery!
+Ronald Lee,aliciasmith@yahoo.com,Payments,do you accept paypal or not?
+Phyllis Anderson DVM,hector44@yahoo.com,Customer service,Support please!! no one is replying
+Brian Evans,sandratran@hotmail.com,Payments,payment failed but bank say success?
+James Hampton,wolferonald@gmail.com,Error 101: Subject not found,Why is no one answering?
+Ronald Porter,taylorreginald@gmail.com,Webmaster,site is broken on mobile?
+Tiffany Edwards,eyoung@yahoo.com,Webmaster,i want to return a broken item.
+Stephen Morris,chaseselena@hotmail.com,Warranty,"lost receipt, can i still claim?"
+Timothy Moore,christinebrown@gmail.com,Customer service,hello i need help
+Stephanie Smith,kyle99@hotmail.com,Return,RETURNS!! where do i go??
+Kathryn Allen,georgeturner@yahoo.com,Payments,money gone but order not confirmd
+Carlos Cole,williamharrell@yahoo.com,Error 202: Translation error,"lost receipt, can i still claim?"
+Heather Meyer,angela98@hotmail.com,Warranty,product broken after 3 months... help
+Heather Weaver,smithjessica@hotmail.com,Payments,my card was charged twise!
+Adam Torres,morganmartin@yahoo.com,Customer service,Support please!! no one is replying
+Brent Hall,kevinhaynes@hotmail.com,Customer service,can someone answer my question??
+Russell Reynolds,jstevens@gmail.com,Customer service,Why is no one answering?
+Lauren Walsh,veronica05@hotmail.com,Warranty,product broken after 3 months... help
+Nicole Green,swiley@yahoo.com,Status of my order,status pls for order #1234
+Jeffrey Kim,laurabeck@hotmail.com,Return,item came damaged and i need to send it back
+Colin Duarte,qdixon@yahoo.com,Warranty,is my item under waranty?
+Paul Smith,zhiggins@gmail.com,Status of my order,status pls for order #1234
+Katelyn Lopez,ijenkins@yahoo.com,Status of my order,no update on my delivery!
+Sharon Ward,benjaminbush@gmail.com,Status of my order,where is my order????
+Thomas Strong,atravis@hotmail.com,Warranty,how long is the warranty period?
+Michael Bradford,jennifer57@yahoo.com,Status of my order,i want to return a broken item.
+Jackie Johnson,petersonkristin@gmail.com,Payments,my card was charged twise!
+Cynthia Tran,slowe@gmail.com,Warranty,how long is the warranty period?
+Marc Turner,tking@gmail.com,Payments,do you accept paypal or not?
+Brian Villarreal,hhancock@hotmail.com,Status of my order,no update on my delivery!
+Mark Gutierrez,ericlozano@hotmail.com,Return,item came damaged and i need to send it back
+Christina Johnston,uwolfe@gmail.com,Customer service,do you accept paypal or not?
+Marcus Fisher,phillipswilliam@gmail.com,Return,RETURNS!! where do i go??
+Andrew Hansen,wendymorales@yahoo.com,Webmaster,Support please!! no one is replying
+Nathan Hernandez,michaelcampbell@hotmail.com,Webmaster,checkout button doesnt work!!!
+Tina Davis,hramirez@hotmail.com,Webmaster,site is broken on mobile?
+Levi Jensen,ojames@yahoo.com,Return,RETURNS!! where do i go??
+Gregory Lane,jimenezsarah@hotmail.com,Warranty,"lost receipt, can i still claim?"
+Heather Rodriguez,rebeccamorales@yahoo.com,Webmaster,site is broken on mobile?
+Micheal Dennis,donnathomas@hotmail.com,Return,i want to return a broken item.
+Sierra Nelson,bowmanjason@hotmail.com,Webmaster,is my item under waranty?
+Justin Bradshaw,crogers@hotmail.com,Return,RETURNS!! where do i go??
+Albert Davis,robert11@gmail.com,Return,i want to return a broken item.
+Abigail Jimenez,michael55@yahoo.com,Warranty,is my item under waranty?
+Benjamin Mclean,connor05@yahoo.com,Payments,money gone but order not confirmd
+Alicia Daugherty,dana73@hotmail.com,Status of my order,where is my order????
+Philip Beltran,charles94@gmail.com,Webmaster,checkout button doesnt work!!!
+Derrick Evans,megansolomon@gmail.com,Status of my order,where is my order????
+Katie Bowers,shelleyclark@gmail.com,Status of my order,where is my order????
+April Smith,ryanbuchanan@yahoo.com,Customer service,Support please!! no one is replying
+Madeline Woods,dtaylor@hotmail.com,Return,RETURNS!! where do i go??
+Duane Banks,gonzalespatricia@yahoo.com,Return,item came damaged and i need to send it back
+Brian Smith,zgarrison@hotmail.com,Return,item came damaged and i need to send it back
+Danielle Powell,longshannon@yahoo.com,Payments,money gone but order not confirmd
+Miguel Bartlett Jr.,omontoya@yahoo.com,Return,RETURNS!! where do i go??
+Robert Walsh,robbinsamanda@hotmail.com,Payments,do you accept paypal or not?
+Michelle Larson,tommymontgomery@hotmail.com,Status of my order,its been a week and no package yet
+Lisa Chan,cheyenne82@yahoo.com,Webmaster,css all messed up on my browser
+Maria Taylor,kristinacrosby@hotmail.com,Payments,do you accept paypal or not?
+Kim Richardson,cindy03@hotmail.com,Status of my order,no update on my delivery!
+Brandy Baker,jamesharrison@gmail.com,Warranty,"lost receipt, can i still claim?"
+Trevor Weeks,smithamy@yahoo.com,Webmaster,checkout button doesnt work!!!
+Ian Lewis,matthew50@hotmail.com,Return,"the product not work, how to send it back?"
+Alexander Faulkner,donna50@yahoo.com,Return,i want to return a broken item.
+John Bradford,christophervasquez@gmail.com,Warranty,product broken after 3 months... help
+Mark Haynes,kylehart@hotmail.com,Payments,my card was charged twise!
+April Zavala,gcase@gmail.com,Status of my order,payment failed but bank say success?
+Dr. Richard King,williamskimberly@hotmail.com,Customer service,Why is no one answering?
+Katrina Lewis,stephaniehughes@gmail.com,Error 202: Translation error,payment failed but bank say success?
+Adam Jenkins,wallacedestiny@yahoo.com,Customer service,Support please!! no one is replying
+Marissa Williams,hullcaleb@yahoo.com,Webmaster,page load forever??
+Kyle James,jonestammy@hotmail.com,Return,RETURNS!! where do i go??
+Brandon Powell,bscott@gmail.com,Webmaster,page load forever??
+David Melendez,patricia76@hotmail.com,Status of my order,where is my order????
+Jamie Rivera,kristopher97@gmail.com,Return,RETURNS!! where do i go??
+Madison Walker,simontiffany@gmail.com,Customer service,Why is no one answering?
+Christopher Myers,danielle10@gmail.com,Error 202: Translation error,payment failed but bank say success?
+Wesley Hughes,hodgechelsea@hotmail.com,Return,i want to return a broken item.
+Cody Daniels,blyons@gmail.com,Status of my order,status pls for order #1234
+Kathy Tate,vernon93@hotmail.com,Warranty,product broken after 3 months... help
+Suzanne Keller,walkerscott@gmail.com,Status of my order,no update on my delivery!
+Dawn Harris,stephaniehensley@hotmail.com,Warranty,Why is no one answering?
+Brenda Lane,joanne97@gmail.com,Error 202: Translation error,status pls for order #1234
+Jonathan Johnson,mbenjamin@gmail.com,Warranty,is my item under waranty?
+Keith Reese,rbrown@gmail.com,Warranty,"lost receipt, can i still claim?"
+Amanda Hines,wonglaura@hotmail.com,Customer service,page load forever??
+Evan Barnes,floydtyler@yahoo.com,Webmaster,css all messed up on my browser
+John Howell,kimberlysmith@hotmail.com,Webmaster,checkout button doesnt work!!!
+Charles Scott,christopher71@yahoo.com,Return,i want to return a broken item.
+Charles Vazquez,cochranvictoria@yahoo.com,Return,RETURNS!! where do i go??
+Jennifer Jackson,carterbryan@gmail.com,Warranty,"lost receipt, can i still claim?"
+Ricardo Burns,qwilson@hotmail.com,Customer service,item came damaged and i need to send it back
+Michael Potter,koconnor@gmail.com,Status of my order,its been a week and no package yet
+Travis Erickson,ethanarmstrong@hotmail.com,Return,i want to return a broken item.
+David Smith,heatherbrown@yahoo.com,Error 101: Subject not found,Support please!! no one is replying
+Mr. Eugene Phillips,michaelgonzales@yahoo.com,Customer service,Support please!! no one is replying
+Mary Rogers,hallkevin@hotmail.com,Customer service,hello i need help
+Matthew Jenkins,mgibson@hotmail.com,Warranty,is my item under waranty?
+Corey Gomez,hdavies@hotmail.com,Error 101: Subject not found,money gone but order not confirmd
+John Huber,jorgesanchez@yahoo.com,Status of my order,no update on my delivery!
+Nicole Holden,deborah61@yahoo.com,Status of my order,no update on my delivery!
+Debra Price,cjackson@gmail.com,Return,RETURNS!! where do i go??
+Jordan James,colemanjose@yahoo.com,Status of my order,where is my order????
+Brian Wilson,carlos18@hotmail.com,Payments,do you accept paypal or not?
+Justin Bell,tknight@yahoo.com,Status of my order,status pls for order #1234
+Jennifer Parker,imartin@yahoo.com,Warranty,"lost receipt, can i still claim?"
+Sierra Butler,benjaminwillie@gmail.com,Webmaster,site is broken on mobile?
+James White,uanderson@hotmail.com,Return,RETURNS!! where do i go??
+Jennifer Moore,brittany93@gmail.com,Webmaster,payment failed but bank say success?
+Alexander Mitchell,andrew11@hotmail.com,Customer service,where is my order????
+Natalie Dean,samuel96@hotmail.com,Status of my order,no update on my delivery!
+Timothy Green,nlee@yahoo.com,Status of my order,Support please!! no one is replying
+Renee Brown,benjamin20@yahoo.com,Warranty,"the product not work, how to send it back?"
+Todd Meyer MD,piercejoe@hotmail.com,Payments,payment failed but bank say success?
+Erin Flores,jennifer32@hotmail.com,Customer service,Support please!! no one is replying
+James Wells,summersdarlene@gmail.com,Customer service,can someone answer my question??
+Alan Brooks,amy95@hotmail.com,Webmaster,site is broken on mobile?
+Marc Whitaker,tallen@yahoo.com,Payments,payment failed but bank say success?
+Bethany Melton,edwardssamuel@gmail.com,Webmaster,css all messed up on my browser
+Charlotte Miller,alejandra87@hotmail.com,Webmaster,checkout button doesnt work!!!
+Christopher Shaw,curtiskevin@gmail.com,Status of my order,i want to return a broken item.

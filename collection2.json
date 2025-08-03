@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Admin replies a message",
+			"name": "Admin replies a message successfully",
 			"event": [
 				{
 					"listen": "test",

@@ -7,7 +7,7 @@
 	},
 	"item": [
 		{
-			"name": "Send a message",
+			"name": "Send a message successfully",
 			"event": [
 				{
 					"listen": "test",
@@ -27,7 +27,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n    \"name\": \"{{name}}\",\n    \"email\": \"{{email}}\",\n    \"subject\": \"{{subject}}\",\n    \"message\": \"{{message}}\",\n    \"status\": \"{{status}}\"\n}",
+					"raw": "{\n    \"name\": \"{{name}}\",\n    \"email\": \"{{email}}\",\n    \"subject\": \"{{subject}}\",\n    \"message\": \"{{message}}\"\n}",
 					"options": {
 						"raw": {
 							"language": "json"
